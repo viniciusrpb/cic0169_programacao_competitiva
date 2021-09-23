@@ -37,7 +37,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 6. Busca Completa
 
-     6.1. [Gerando subsets e permutações](general/busca_completa.cpp) *Código-fonte demonstrativo*
+     6.1. [Gerando subsets e permutações](general/buscacompleta.cpp) *Código-fonte demonstrativo*
 
      6.2. [Busca em Largura](upsolving/uri1910_ajude_clotilde.cpp) *Resolução do problema URI1910 - Ajude Clotilde*
      
