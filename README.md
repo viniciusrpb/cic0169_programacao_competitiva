@@ -35,15 +35,15 @@ Prof. Dr. Vinícius R. P. Borges
 
      6.1. [Gerando subsets e permutações](general/busca_completa.cpp)
 
-     6.2. [Busca em Largura](problem_solving/uri1910_ajude_clotilde.cpp)
+     6.2. [Busca em Largura](upsolving/uri1910_ajude_clotilde.cpp)
      
-     6.3. [Backtracking](problem_solving/uri1556_sequencias.cpp)
+     6.3. [Backtracking](upsolving/uri1556_sequencias.cpp)
 
 7. Análise amortizada: Two Pointers
 
      7.1. [Problemas clássicos](general/busca_completa.cpp)
 
-     7.2. [Resolução: Balanced Team](general/busca_completa.cpp)
+     7.2. [Resolução: Balanced Team](upsolving/busca_completa.cpp)
 
 8. Divisão-e-Conquista
 
