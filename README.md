@@ -28,6 +28,10 @@ Prof. Dr. Vinícius R. P. Borges
 
 5. Soma de Prefixos e Codificação Delta
 
+    5.1. [Codificação Delta](upsolving/karen_and_coffee.cpp) *Resolução do problema Codeforces - Karen and Coffee*
+    
+    5.2. [Codificação Delta](upsolving/greg_array.cpp) *Resolução do problema Codeforces - Greg and Array*
+
 
 ### Módulo III: Paradigmas de Resolução de Problemas
 
