@@ -33,11 +33,11 @@ Prof. Dr. Vinícius R. P. Borges
 
 6. Busca Completa
 
-     6.1. [Gerando subsets e permutações](general/busca_completa.cpp)
+     6.1. [Gerando subsets e permutações](general/busca_completa.cpp) *Código-fonte demonstrativo*
 
      6.2. [Busca em Largura](upsolving/uri1910_ajude_clotilde.cpp) *Resolução do problema URI1910 - Ajude Clotilde*
      
-     6.3. [Backtracking](upsolving/uri1556_sequencias.cpp) *Resolução do problema URI1566 - Sequências*
+     6.3. [Backtracking](upsolving/uri1556_removing_letters.cpp) *Resolução do problema URI1556 - Removing Letters*
 
 7. Análise amortizada: Two Pointers
 
