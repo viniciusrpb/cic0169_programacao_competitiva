@@ -55,7 +55,7 @@ Prof. Dr. Vinícius R. P. Borges
 
     8.1. [Tipos de Busca Binária](general/busca_binaria.cpp)
 
-    8.2. [MergeSort](general/merge_sort.cpp)
+    8.2. Merge Sort: [Tradicional](general/merge_sort.cpp) ; [Inversões](general/merge_sort_enhanced.cpp)
 
 9. Algoritmos Gulosos
 
