@@ -14,28 +14,14 @@
 
 using namespace std;
 
-void mergeSort(int vetor[], int temp[], int inicio, int fim)
-{
-    int meio;
-    if (inicio >= fim)
-    {
-        meio = (inicio+fim) / 2;
- 
-        mergeSort(v, temp, inicio, meio);
-        mergeSort(v, temp, meio + 1, fim);
- 
-        merge(v, temp, inicio, meio + 1, fim);
-    }
-}
 
 void merge(int v[], int temp[], int inicio, int meio, int fim)
 {
     int i, j, k;
  
-    i = inicio;
+    i = inicio; 
     j = meio;
     k = inicio;
-    
     while ((i <= meio - 1) && (j <= fim))
     {
         if (v[i] <= v[j])
@@ -52,15 +38,31 @@ void merge(int v[], int temp[], int inicio, int meio, int fim)
  
     for (i = inicio; i <= fim; i++)
         v[i] = temp[i];
+ 
 }
+
+void mergeSort(int v[], int temp[], int inicio, int fim)
+{
+    int meio;
+    if (inicio < fim)
+    {
+        meio = (inicio+fim) / 2;
+ 
+        mergeSort(v, temp, inicio, meio);
+        mergeSort(v, temp, meio + 1, fim);
+ 
+        merge(v, temp, inicio, meio + 1, fim);
+    }
+}
+
 
 int main()
 {
-    vector<int> vetor = {6,5,-1,7,2,12};
-    int N = vetor.size();
+    int N = 7;
+    int v[N] = {6,5,-1,7,2,12,-3};
     int temp[N];
     
-    mergeSort(&v,temp,0,N-1);
+    mergeSort(v,temp,0,N-1);
     
     for(int i =0; i < N;i++)
         printf("%d ",v[i]);
