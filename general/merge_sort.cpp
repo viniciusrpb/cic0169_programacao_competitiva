@@ -14,68 +14,56 @@
 
 using namespace std;
 
-void merge(vector<int>& v, int inicio, int meio, int fim)
+void mergeSort(int vetor[], int temp[], int inicio, int fim)
 {
-    vector<int> aux;
-    int j,k,n;
-    bool fim_p1=false,fim_p2=false;
-    
-    n = fim-inicio+1;
-    
-    j = inicio;
-    
-    k = meio+1;
-    
-    for(int i = 0; i < n; i++)
+    int meio;
+    if (inicio >= fim)
     {
-        if(!fim_p1 && !fim_p2)
-        {
-            if(v[j] < v[k])
-                aux.push_back(v[j++]);
-            else
-                aux.push_back(v[k++]);
-            
-            if(j > meio)
-                fim_p1 = true;
-            if(k > fim)
-                fim_p2 = true;
-        }
-        else
-        {
-            if(!fim_p1)
-                aux.push_back(v[j++]);
-            else
-                aux.push_back(v[k++]);
-        }
-    }
-    
-    for(int p = 0, q = inicio; p < n; p++,q++)
-    {
-        v[q] = aux[p];
+        meio = (inicio+fim) / 2;
+ 
+        mergeSort(v, temp, inicio, meio);
+        mergeSort(v, temp, meio + 1, fim);
+ 
+        merge(v, temp, inicio, meio + 1, fim);
     }
 }
 
-void mergeSort(vector<int>& v, int inicio, int fim)
+void merge(int v[], int temp[], int inicio, int meio, int fim)
 {
-    int meio;
-    if(inicio < fim)
+    int i, j, k;
+ 
+    i = inicio;
+    j = meio;
+    k = inicio;
+    
+    while ((i <= meio - 1) && (j <= fim))
     {
-        meio = (inicio+fim)/2;
-        mergeSort(v, inicio, meio);
-        mergeSort(v, meio+1, fim);
-        merge(v,inicio,meio,fim);
+        if (v[i] <= v[j])
+            temp[k++] = v[i++];
+        else
+            temp[k++] = v[j++];
     }
+ 
+    while (i <= meio - 1)
+        temp[k++] = v[i++];
+ 
+    while (j <= fim)
+        temp[k++] = v[j++];
+ 
+    for (i = inicio; i <= fim; i++)
+        v[i] = temp[i];
 }
 
 int main()
 {
     vector<int> vetor = {6,5,-1,7,2,12};
     int N = vetor.size();
+    int temp[N];
     
-    mergeSort(vetor,0,N-1);
+    mergeSort(&v,temp,0,N-1);
     
     for(int i =0; i < N;i++)
-        printf("%d ",vetor[i]);
+        printf("%d ",v[i]);
     printf("\n");
     
     return 0;
