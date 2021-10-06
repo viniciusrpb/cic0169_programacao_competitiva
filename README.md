@@ -53,9 +53,13 @@ Prof. Dr. Vinícius R. P. Borges
 
 8. Divisão-e-Conquista
 
-    8.1. [Tipos de Busca Binária](general/busca_binaria.cpp)
+    8.1. Busca Binária: [Tradicional](general/busca_binaria.cpp) ; [Busca Binária da Resposta](general/buscabin_resposta.cpp)
+    
+    8.2. [Upsolving 1:](upsolving/uri1472_triangles.cpp) *resolução do problema "1472 - Triangles"*
 
-    8.2. Merge Sort: [Tradicional](general/merge_sort.cpp) ; [Inversões](general/merge_sort_enhanced.cpp)
+    8.3. Merge Sort: [Tradicional](general/merge_sort.cpp) ; [Inversões](general/merge_sort_enhanced.cpp)
+    
+    8.4. [Upsolving 2:](upsolving/uri1088_bubbles_buckets.cpp) *resolução do problema "1088 - Bubbles and Buckets"*
 
 9. Algoritmos Gulosos
 
