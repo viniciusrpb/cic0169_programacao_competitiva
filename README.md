@@ -63,6 +63,12 @@ Prof. Dr. Vinícius R. P. Borges
 
 9. Algoritmos Gulosos
 
+    9.1. [Problema do Escalonamento de Tarefas](general/escalonamento_tarefas.cpp)
+    
+    9.2. [Maximizar Tarefas (Intervalos) Disjuntos](general/max_tarefas_disjuntas.cpp)
+
+    9.3. [Problema da Mochila Fracionária](general/frac_knapsack.cpp)
+
 10. Fundamentos de Programação Dinâmica
 
 
