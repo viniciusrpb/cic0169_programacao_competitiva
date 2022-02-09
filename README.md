@@ -22,7 +22,7 @@ Prof. Dr. Vinícius R. P. Borges
 
     1.2. Ordenação
     
-    1.3. Upsolving: [992A. - Nastya and an Array](https://codeforces.com/contest/992/problem/A) [[Solução](upsolving/nastya_array.cpp)] 
+    1.3. Upsolving: [992A - Nastya and an Array](https://codeforces.com/contest/992/problem/A) [[Solução](upsolving/nastya_array.cpp)] 
   
 2. Ponteiros e Alocação Dinâmica de Memória
 
@@ -31,6 +31,12 @@ Prof. Dr. Vinícius R. P. Borges
     2.2. Alocação Dinâmica de Memória (malloc)
 
 3. Operadores Bitwise e BitMasks
+
+    3.1. [Operadores Bitwise](general/op_bitwise.cpp)
+    
+    3.2. [Bitmasks](general/bitmasks.cpp)
+
+    3.3. Upsolving: [550B - Preparing Olympiad](https://codeforces.com/contest/550/problem/B) [[Solução](upsolving/preparing_olymíad.cpp)] 
 
 ### Módulo II: Estruturas de Dados
 
