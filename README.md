@@ -2,7 +2,7 @@
 
 Códigos-fontes produzidos na disciplina **CIC0169 - Programação Competitiva**, no curso de Bacharelado em Ciência da Computação da Universidade de Brasília.
 
-Atenção: o Material Didático (Slides, Exercícios Resolvidos) na íntegra é possível obter no Aprender3/Moodle da disciplina, ou nos repositórios elaborados pelos anos em:
+Atenção: o Material Didático (Slides, Exercícios Resolvidos) na íntegra é possível obter no Aprender3/Moodle da disciplina, ou nos repositórios elaborados no decorrer dos últimos anos em:
 
 - [GitHub UnBalloon](https://github.com/unballoon)
 
