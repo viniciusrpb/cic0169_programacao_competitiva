@@ -17,12 +17,22 @@ Prof. Dr. Vinícius R. P. Borges
 ### Módulo I: Fundamentos de Programação Competitiva
 
 1. Fundamentos de Linguagem C/C++
-  
-2. Alocação Dinâmica de Memória
 
-### Módulo II: Estruturas de Dados
+    1.1. Template C++
+
+    1.2. Ordenação
+    
+    1.3. Upsolving: [992A. - Nastya and an Array](https://codeforces.com/contest/992/problem/A) [[Solução](upsolving/nastya_array.cpp)] 
+  
+2. Ponteiros e Alocação Dinâmica de Memória
+
+    2.1. Ponteiros e Iterators
+    
+    2.2. Alocação Dinâmica de Memória (malloc)
 
 3. Operadores Bitwise e BitMasks
+
+### Módulo II: Estruturas de Dados
 
 4. Estruturas de Dados
 
