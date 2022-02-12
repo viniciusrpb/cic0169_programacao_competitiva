@@ -70,7 +70,7 @@ int main()
      
      printf("LSB's position of %d is: %d\n\n",bitmask,posLSB(bitmask));
      
-     bitmask = 24; // 11010_2
+     bitmask = 24; // 11000_2
      
      printf("LSB of %d is: %d\n",bitmask,LSB(bitmask));
      
