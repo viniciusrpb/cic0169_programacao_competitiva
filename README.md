@@ -34,7 +34,7 @@ Prof. Dr. Vinícius R. P. Borges
 
     3.1. [Operadores Bitwise](general/op_bitwise.cpp)
     
-    3.2. [Bitmasks](general/bitmasks.cpp)
+    3.2. [Bitmasks](general/bitmask.cpp)
 
     3.3. Upsolving: [1421A - XORwice](https://codeforces.com/problemset/problem/1421/A ) [[Solução](upsolving/cf_xorwice.cpp)] 
 
