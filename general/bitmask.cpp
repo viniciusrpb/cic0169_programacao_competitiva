@@ -41,7 +41,7 @@ void complete_search_bitmask()
     vector<int> v({1,2,3,4,5});
     int n = v.size();
     
-    printf("Generate all subvectors of a vector\n");
+    printf("Generate all subvectors of a vector:\n");
     for(int bitmask = 0; bitmask < (1 << n); bitmask++)
     {
         printf("[ ");
@@ -62,13 +62,19 @@ int main()
      
      printf("Bit 3 is on? Ans: %d\n",isSet(bitmask,3));
      
-     printf("Change bit 2, we get: %d\n",setBit(bitmask,2));
+     printf("Change bit 2, we get: %d\n\n",setBit(bitmask,2));
      
      bitmask = 26; // 11010_2
      
      printf("LSB of %d is: %d\n",bitmask,LSB(bitmask));
      
-     printf("LSB's position of %d is: %d\n",bitmask,posLSB(bitmask));
+     printf("LSB's position of %d is: %d\n\n",bitmask,posLSB(bitmask));
+     
+     bitmask = 24; // 11010_2
+     
+     printf("LSB of %d is: %d\n",bitmask,LSB(bitmask));
+     
+     printf("LSB's position of %d is: %d\n\n",bitmask,posLSB(bitmask));
      
      complete_search_bitmask();
      
