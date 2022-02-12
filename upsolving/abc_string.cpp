@@ -17,27 +17,18 @@
  
 using namespace std;
  
-int n,l,r,x;
-
- 
-int isSet(int pos, int number)
+bool isSet(int num, int bitPos)
 {
-    int pot2 = (1<<pos);
-    if(number & pot2)
-        return 1;
-    else
-        return 0;
+    return (num & (1 << bitPos)) != 0;
 }
  
 int main()
 {
-    
     ios::sync_with_stdio(false);
-    cin.tie(NULL);
-    
+    cin.tie(0);
+    cout.tie(0);
     int t;
-    char c;
-    char bracket[2] = {'(',')'};
+    char brackets[2] = {'(',')'};
     
     cin >> t;
     
@@ -46,34 +37,32 @@ int main()
         string str;
         string ans = "NO\n";
         cin >> str;
-        int bitmask = 0;
         
-        while(bitmask < 8)
+        for(int bitmask = 0; bitmask < 8; bitmask++)
         {
-            stack<char> pilha;
-
+            stack<int> pilha;
+            
             for(int i = 0; i < str.size(); i++)
             {
-                c = bracket[isSet(str[i]-'A',bitmask)];
-
+                char c = brackets[isSet(bitmask,str[i]-'A')];
                 if(c == '(')
                 {
                     pilha.push(c);
                 }
                 else
                 {
-                    if(!pilha.empty() && pilha.top() == '(')
+                    if(!pilha.empty() and pilha.top() == '(')
                         pilha.pop();
                     else
                         pilha.push(c);
                 }
             }
+            
             if(pilha.empty())
             {
                 ans = "YES\n";
                 break;
             }
-            bitmask++;
         }
         cout << ans;
     }
