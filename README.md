@@ -22,7 +22,7 @@ Prof. Dr. Vinícius R. P. Borges
 
     1.2. Ordenação
     
-    1.3. Upsolving: [992A - Nastya and an Array](https://codeforces.com/contest/992/problem/A) [[Solução](upsolving/nastya_array.cpp)] 
+    1.3. Upsolving: [Codeforces 992A - Nastya and an Array](https://codeforces.com/contest/992/problem/A) [[Solução](upsolving/nastya_array.cpp)] 
   
 2. Ponteiros e Alocação Dinâmica de Memória
 
@@ -36,11 +36,11 @@ Prof. Dr. Vinícius R. P. Borges
     
     3.2. [Bitmasks](general/bitmask.cpp)
 
-    3.3. Upsolving: [1421A - XORwice](https://codeforces.com/problemset/problem/1421/A ) [[Solução](upsolving/cf_xorwice.cpp)] 
+    3.3. Upsolving: [Codeforces 1421A - XORwice](https://codeforces.com/problemset/problem/1421/A ) [[Solução](upsolving/cf_xorwice.cpp)] 
 
-    3.4. Upsolving: [1949A - ABC String](https://codeforces.com/problemset/problem/1494/A) [[Solução](upsolving/abc_string.cpp)] 
+    3.4. Upsolving: [Codeforces 1949A - ABC String](https://codeforces.com/problemset/problem/1494/A) [[Solução](upsolving/abc_string.cpp)] 
 
-    3.5. Upsolving: [550B - Preparing Olympiad](https://codeforces.com/contest/550/problem/B) [[Solução](upsolving/preparing_olymíad.cpp)] 
+    3.5. Upsolving: [Codeforces 550B - Preparing Olympiad](https://codeforces.com/contest/550/problem/B) [[Solução](upsolving/preparing_olympiad.cpp)] 
 
 ### Módulo II: Estruturas de Dados
 
