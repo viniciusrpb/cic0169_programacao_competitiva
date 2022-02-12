@@ -30,7 +30,7 @@ Prof. Dr. Vinícius R. P. Borges
     
     2.2. Alocação Dinâmica de Memória (malloc)
 
-3. Operadores Bitwise e BitMasks
+3. Operadores Bitwise e Bitmasks
 
     3.1. [Operadores Bitwise](general/op_bitwise.cpp)
     
