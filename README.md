@@ -44,52 +44,64 @@ Prof. Dr. Vinícius R. P. Borges
 
 ### Módulo II: Estruturas de Dados
 
-4. Estruturas de Dados
+4. Estruturas de Dados Lineares
 
-5. Soma de Prefixos e Codificação Delta
-
-    5.1. [Exemplos](general/greg_array.cpp)
-
-    5.2. [Upsolving 1:](upsolving/karen_and_coffee.cpp) *resolução do problema "Codeforces #419B- Karen and Coffee"*
+    4.1. Fila
     
-    5.3. [Upsolving 2:](upsolving/greg_array.cpp) *resolução do problema "Codeforces #179A - Greg and Array"*
+    4.2. Pilha
+
+    4.3. Fila de Prioridade
+
+5. Estruturas de Dados Não-Lineares
+
+    5.1. Sets
+    
+    5.2. Map
+
+6. Soma de Prefixos e Codificação Delta
+
+    6.1. [Exemplos](general/greg_array.cpp)
+
+    6.2. [Upsolving 1:](upsolving/karen_and_coffee.cpp) *resolução do problema "Codeforces #419B- Karen and Coffee"*
+    
+    6.3. [Upsolving 2:](upsolving/greg_array.cpp) *resolução do problema "Codeforces #179A - Greg and Array"*
 
 
 ### Módulo III: Paradigmas de Resolução de Problemas
 
-6. Busca Completa
+7. Busca Completa
 
-     6.1. [Gerando subsets e permutações:](general/buscacompleta.cpp) *código-fonte demonstrativo*
+     7.1. [Gerando subsets e permutações:](general/buscacompleta.cpp) *código-fonte demonstrativo*
 
-     6.2. [Busca em Largura:](upsolving/uri1910_ajude_clotilde.cpp) *resolução do problema "URI1910 - Ajude Clotilde"*
+     7.2. [Busca em Largura:](upsolving/uri1910_ajude_clotilde.cpp) *resolução do problema "URI1910 - Ajude Clotilde"*
      
-     6.3. [Backtracking:](upsolving/uri1556_removing_letters.cpp) *resolução do problema "URI1556 - Removing Letters"*
+     7.3. [Backtracking:](upsolving/uri1556_removing_letters.cpp) *resolução do problema "URI1556 - Removing Letters"*
 
-7. Análise amortizada: Two Pointers
+8. Análise amortizada: Two Pointers
 
-     7.1. [Problemas clássicos](general/two_pointers.cpp)
+     8.1. [Problemas clássicos](general/two_pointers.cpp)
 
-     7.2. [Upsolving 1:](upsolving/cf_544c_balancedteams.cpp) *resolução do problema "Codeforces #544C - Balanced Teams"*
+     8.2. [Upsolving 1:](upsolving/cf_544c_balancedteams.cpp) *resolução do problema "Codeforces #544C - Balanced Teams"*
 
-8. Divisão-e-Conquista
+9. Divisão-e-Conquista
 
-    8.1. Busca Binária: [Tradicional](general/busca_binaria.cpp) ; [Busca Binária da Resposta](general/buscabin_resposta.cpp)
+    9.1. Busca Binária: [Tradicional](general/busca_binaria.cpp) ; [Busca Binária da Resposta](general/buscabin_resposta.cpp)
     
-    8.2. [Upsolving 1:](upsolving/uri1472_triangles.cpp) *resolução do problema "1472 - Triangles"*
+    9.2. [Upsolving 1:](upsolving/uri1472_triangles.cpp) *resolução do problema "1472 - Triangles"*
 
-    8.3. Merge Sort: [Tradicional](general/merge_sort.cpp) ; [Inversões](general/merge_sort_enhanced.cpp)
+    9.3. Merge Sort: [Tradicional](general/merge_sort.cpp) ; [Inversões](general/merge_sort_enhanced.cpp)
     
-    8.4. [Upsolving 2:](upsolving/uri1088_bubbles_buckets.cpp) *resolução do problema "1088 - Bubbles and Buckets"*
+    9.4. [Upsolving 2:](upsolving/uri1088_bubbles_buckets.cpp) *resolução do problema "1088 - Bubbles and Buckets"*
 
-9. Algoritmos Gulosos
+10. Algoritmos Gulosos
 
-    9.1. [Problema do Escalonamento de Tarefas](general/escalonamento_tarefas.cpp)
+    10.1. [Problema do Escalonamento de Tarefas](general/escalonamento_tarefas.cpp)
     
-    9.2. [Maximizar Tarefas (Intervalos) Disjuntos](general/max_tarefas_disjuntas.cpp)
+    10.2. [Maximizar Tarefas (Intervalos) Disjuntos](general/max_tarefas_disjuntas.cpp)
 
-    9.3. [Problema da Mochila Fracionária](general/frac_knapsack.cpp)
+    10.3. [Problema da Mochila Fracionária](general/frac_knapsack.cpp)
 
-10. Fundamentos de Programação Dinâmica
+11. Fundamentos de Programação Dinâmica
 
 
 ## Referências
