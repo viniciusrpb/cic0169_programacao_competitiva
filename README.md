@@ -46,11 +46,15 @@ Prof. Dr. Vinícius R. P. Borges
 
 4. Estruturas de Dados Lineares
 
-    4.1. Fila
+    4.1. [Fila](general/stl_queue.cpp)
     
-    4.2. Pilha
+    4.2. [Pilha](general/stl_stack.cpp)
 
-    4.3. Fila de Prioridade
+    4.3. [Fila de Prioridade](general/stl_priority_queue.cpp)
+
+    4.4. Upsolving: [Codeforces 343B - XORwice](https://codeforces.com/contest/343/problem/B) [[Solução](upsolving/343b_alternating_current.cpp)]
+
+    4.5. Upsolving: [Beecrowd 2065 - Supermarket Line](https://www.beecrowd.com.br/judge/en/problems/view/2065?origem=1) [[Solução](upsolving/beecrowd_2056.cpp)]
 
 5. Estruturas de Dados Não-Lineares
 
