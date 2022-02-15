@@ -1,10 +1,21 @@
+/* Universidade de Brasília
+ * Departamento de Ciência da Computação
+ * CIC0169 - Programação Competitiva 
+ * Prof. Dr. Vinicius R. P. Borges
+ * 
+ * Tópico: Estruturas de Dados, biblioteca STL, Pilha 
+ * Funcao desse programa: apresentar metodos da classe Stack
+ * 
+ * Compilar: g++ stl_stack.cpp -std=c++11 -o pilha
+ * Executar: ./pilha
+ */
+
 #include<bits/stdc++.h>
 
 using namespace std;
 
 int main()
 {
-    int n;
     stack<int> pilha;
     
     if(pilha.empty())

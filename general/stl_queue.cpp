@@ -1,3 +1,15 @@
+/* Universidade de Brasília
+ * Departamento de Ciência da Computação
+ * CIC0169 - Programação Competitiva 
+ * Prof. Dr. Vinicius R. P. Borges
+ * 
+ * Tópico: Estruturas de Dados, biblioteca STL, Fila
+ *    Funcao desse programa: apresentar metodos da classe Queue da STL
+ * 
+ * Compilar: g++ stl_queue.cpp -std=c++11 -o fila
+ * Executar: ./fila
+ */
+
 #include<bits/stdc++.h>
 
 using namespace std;
