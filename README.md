@@ -56,13 +56,13 @@ Prof. Dr. Vinícius R. P. Borges
 
     4.5. Upsolving: [Beecrowd 2065 - Supermarket Line](https://www.beecrowd.com.br/judge/pt/problems/view/2065) [[Solução](upsolving/beecrowd_2056.cpp)]
 
-    4.6. Upsolving: [Codeforces 1234D - Distinct Characters Queries](https://codeforces.com/contest/1234/problem/D) [[Solução](upsolving/1234d_distinct_characters_queries.cpp)]
-
 5. Estruturas de Dados Não-Lineares
 
     5.1. Sets
     
     5.2. Map
+
+    5.3. Upsolving: [Codeforces 1234D - Distinct Characters Queries](https://codeforces.com/contest/1234/problem/D) [[Solução](upsolving/1234d_distinct_characters_queries.cpp)]
 
 6. Soma de Prefixos e Codificação Delta
 
