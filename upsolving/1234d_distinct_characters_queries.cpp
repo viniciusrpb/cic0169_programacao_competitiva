@@ -57,7 +57,7 @@ int main()
                 if(!letras_indices[i].size())
                     continue;
                 // O (log N)
-                set<int>::iterator it = letras_indices[i]..lower_bound(l-1);
+                set<int>::iterator it = letras_indices[i].lower_bound(l-1);
                 if(it != letras_indices[i].end() and *it <= r-1)
                     ans++;
             }
