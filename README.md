@@ -66,11 +66,11 @@ Prof. Dr. Vinícius R. P. Borges
 
 6. Soma de Prefixos e Codificação Delta
 
-    6.1. [Exemplos](general/greg_array.cpp)
+    6.1. [Exemplo básico](general/prefix_sum_delta_encoding.cpp)
 
-    6.2. [Upsolving 1:](upsolving/karen_and_coffee.cpp) *resolução do problema "Codeforces #419B- Karen and Coffee"*
+    6.2. Upsolving 1: [Codeforces 816B- Karen and Coffee](https://codeforces.com/problemset/problem/816/B) [[Solução](upsolving/karen_and_coffee.cpp)]
     
-    6.3. [Upsolving 2:](upsolving/greg_array.cpp) *resolução do problema "Codeforces #179A - Greg and Array"*
+    6.3. Upsolving 2: [Codeforces 295A - Greg and Array](https://codeforces.com/problemset/problem/295/A/) [[Solução](upsolving/greg_array.cpp)]
 
 
 ### Módulo III: Paradigmas de Resolução de Problemas
