@@ -86,8 +86,10 @@ Prof. Dr. Vinícius R. P. Borges
 8. Análise amortizada: Two Pointers
 
      8.1. [Problemas clássicos](general/two_pointers.cpp)
+     
+     8.2. [Algoritmo de Kadane](general/kadane_two_pointers.cpp)
 
-     8.2. [Upsolving 1:](upsolving/cf_544c_balancedteams.cpp) *resolução do problema "Codeforces #544C - Balanced Teams"*
+     8.3. [Upsolving 1:](upsolving/cf_544c_balancedteams.cpp) *resolução do problema "Codeforces #544C - Balanced Teams"*
 
 9. Divisão-e-Conquista
 
