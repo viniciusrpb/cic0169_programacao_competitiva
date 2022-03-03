@@ -13,7 +13,6 @@
  * Executar: ./cafe
  */
 
-
 #include<bits/stdc++.h>
 
 using namespace std;
@@ -22,7 +21,7 @@ typedef long long ll;
 
 int main()
 {
-    int n, k,q,l,r,a,b,s,ans;
+    int n,k,q,l,r,a,b,s;
     vector<ll> temp_receitas(200002,0);
     vector<ll> delta(200002,0);
     vector<ll> aceitaveis_psum(200002,0);
