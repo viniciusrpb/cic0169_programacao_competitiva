@@ -9,7 +9,7 @@
  * 
  * POR FAVOR: nao submeter esse código-fonte diretamente no Codeforces
  * 
- * Compilar no terminal: g++ karen_and_coffee.cpp -std=c++11 -o cafe
+ * Compilar no terminal: g++ 816b_karen_and_coffee.cpp -std=c++11 -o cafe
  * Executar: ./cafe
  */
 
