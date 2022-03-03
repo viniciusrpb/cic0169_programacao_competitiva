@@ -57,7 +57,6 @@ int main()
         scanf("%d %d",&a,&b);
         printf("%lld\n",aceitaveis_psum[b]-aceitaveis_psum[a-1]);
     }
-   
     
     return 0;
 }
