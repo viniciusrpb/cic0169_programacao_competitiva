@@ -77,37 +77,49 @@ Prof. Dr. Vinícius R. P. Borges
 
 7. Busca Completa
 
-     7.1. [Gerando subsets e permutações:](general/buscacompleta.cpp) *código-fonte demonstrativo*
-
-     7.2. [Busca em Largura:](upsolving/uri1910_ajude_clotilde.cpp) *resolução do problema "URI1910 - Ajude Clotilde"*
+     7.1. Busca em Largura
      
-     7.3. [Backtracking:](upsolving/uri1556_removing_letters.cpp) *resolução do problema "URI1556 - Removing Letters"*
-
-8. Análise amortizada: Two Pointers
-
-     8.1. [Problemas clássicos](general/two_pointers.cpp)
+     7.1.1. Upsolving 1: [Beecrowd 1910 - Ajude Clotilde](https://www.beecrowd.com.br/judge/en/problems/view/1910) [[Solução](upsolving/uri1910_ajude_clotilde.cpp)]
      
-     8.2. [Algoritmo de Kadane](general/kadane_two_pointers.cpp)
-
-     8.3. [Upsolving 1:](upsolving/cf_544c_balancedteams.cpp) *resolução do problema "Codeforces #544C - Balanced Teams"*
-
-9. Divisão-e-Conquista
-
-    9.1. Busca Binária: [Tradicional](general/busca_binaria.cpp) ; [Busca Binária da Resposta](general/buscabin_resposta.cpp)
+     7.1.2. Upsolving 2: [Codeforces 520B- Two Buttons](https://codeforces.com/problemset/problem/520/B) [[Solução](upsolving/520b_two_buttons.cpp)]
     
-    9.2. [Upsolving 1:](upsolving/uri1472_triangles.cpp) *resolução do problema "1472 - Triangles"*
+     7.1.3. Upsolving 3: [Beecrowd 1907 - Colouring Game Scenarios](https://www.beecrowd.com.br/judge/en/problems/view/1907) [[Solução](upsolving/beecrowd_1907.cpp)]
 
-    9.3. Merge Sort: [Tradicional](general/merge_sort.cpp) ; [Inversões](general/merge_sort_enhanced.cpp)
+     7.2. Busca em Profundidade
+     
+     7.2.1. [Gerando subsets e permutações](general/buscacompleta.cpp)
+     
+     7.2.2. Upsolving 4: [Beecrowd 1556 - Removing Letters](https://www.beecrowd.com.br/judge/en/problems/view/1556) [[Solução](upsolving/uri1556_removing_letters.cpp)
+
+8. Divisão-e-Conquista
+
+    8.1. Busca Binária: [Tradicional](general/busca_binaria.cpp) ; [Busca Binária da Resposta](general/buscabin_resposta.cpp)
     
-    9.4. [Upsolving 2:](upsolving/uri1088_bubbles_buckets.cpp) *resolução do problema "1088 - Bubbles and Buckets"*
+    8.2. [Upsolving 1:](upsolving/uri1472_triangles.cpp) *resolução do problema "1472 - Triangles"*
 
-10. Algoritmos Gulosos
-
-    10.1. [Problema do Escalonamento de Tarefas](general/escalonamento_tarefas.cpp)
+    8.3. Merge Sort: [Tradicional](general/merge_sort.cpp) ; [Inversões](general/merge_sort_enhanced.cpp)
     
-    10.2. [Maximizar Tarefas (Intervalos) Disjuntos](general/max_tarefas_disjuntas.cpp)
+    8.4. [Upsolving 2:](upsolving/uri1088_bubbles_buckets.cpp) *resolução do problema "1088 - Bubbles and Buckets"*
 
-    10.3. [Problema da Mochila Fracionária](general/frac_knapsack.cpp)
+9. Algoritmos Gulosos
+
+    9.1. [Problema do Escalonamento de Tarefas](general/escalonamento_tarefas.cpp)
+    
+    9.2. [Maximizar Tarefas (Intervalos) Disjuntos](general/max_tarefas_disjuntas.cpp)
+
+    9.3. [Problema da Mochila Fracionária](general/frac_knapsack.cpp)
+    
+10. Análise amortizada: Two Pointers
+
+     10.1. [Problemas clássicos](general/two_pointers.cpp)
+     
+     10.2. [Algoritmo de Kadane](general/kadane_two_pointers.cpp)
+
+     10.3. [Upsolving 1:](upsolving/cf_544c_balancedteams.cpp) *resolução do problema "Codeforces #544C - Balanced Teams"*
+
+
+
+
 
 11. Fundamentos de Programação Dinâmica
 
