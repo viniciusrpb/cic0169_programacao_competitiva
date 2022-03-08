@@ -81,7 +81,7 @@ Prof. Dr. Vinícius R. P. Borges
      
      7.1.1. Upsolving 1: [Beecrowd 1910 - Ajude Clotilde](https://www.beecrowd.com.br/judge/en/problems/view/1910) [[Solução](upsolving/uri1910_ajude_clotilde.cpp)]
      
-     7.1.2. Upsolving 2: [Codeforces 520B- Two Buttons](https://codeforces.com/problemset/problem/520/B) [[Solução](upsolving/520b_two_buttons.cpp)]
+     7.1.2. Upsolving 2: [Codeforces 520B - Two Buttons](https://codeforces.com/problemset/problem/520/B) [[Solução](upsolving/520b_two_buttons.cpp)]
     
      7.1.3. Upsolving 3: [Beecrowd 1907 - Colouring Game Scenarios](https://www.beecrowd.com.br/judge/en/problems/view/1907) [[Solução](upsolving/beecrowd_1907.cpp)]
 
