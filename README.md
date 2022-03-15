@@ -87,11 +87,13 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.1.3. Upsolving 3: [Beecrowd 1907 - Colouring Game Scenarios](https://www.beecrowd.com.br/judge/en/problems/view/1907) [[Solução](upsolving/beecrowd_1907.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 7.2. Busca em Profundidade
+&nbsp;&nbsp;&nbsp;&nbsp; 7.2. Busca em Profundidade e Backtracking
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.2.1. [Gerando subsets e permutações](general/buscacompleta.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.2.2. Upsolving 4: [Beecrowd 1556 - Removing Letters](https://www.beecrowd.com.br/judge/en/problems/view/1556) [[Solução](upsolving/uri1556_removing_letters.cpp)
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.2.2. Upsolving 4: [Beecrowd 1556 - Removing Letters](https://www.beecrowd.com.br/judge/en/problems/view/1556) [[Solução](upsolving/beecrowd_1556.cpp)]
+
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.2.3. Upsolving 5: [Codeforces 339C - Xenia and Weights](https://codeforces.com/problemset/problem/339/C) [[Solução](upsolving/339c_xenia_weights.cpp)]
 
 #### 8. Divisão-e-Conquista
 
