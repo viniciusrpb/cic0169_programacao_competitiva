@@ -115,7 +115,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.2. [Busca Binária da Resposta](general/buscabin_resposta.cpp)
     
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.3. Upsolving 4:[Beecrowd 1472 - Triângulos](https://www.beecrowd.com.br/judge/pt/problems/view/1472) [[Solução](upsolving/uri1472_triangles.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.3. Upsolving 4: [Beecrowd 1472 - Triângulos](https://www.beecrowd.com.br/judge/pt/problems/view/1472) [[Solução](upsolving/uri1472_triangles.cpp)]
 
 
 
