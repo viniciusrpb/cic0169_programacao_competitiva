@@ -68,11 +68,11 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 6.1. Soma de Prefixos (*Prefix sum*): [Exemplo básico](general/prefix_sum.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; 6.1. Codificação Delta (*Delta encoding*, *Difference arrays*): [Exemplo básico](general/delta_encoding.cpp)
+&nbsp;&nbsp;&nbsp;&nbsp; 6.2. Codificação Delta (*Delta encoding*, *Difference arrays*): [Exemplo básico](general/delta_encoding.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; 6.2. Upsolving 1: [Codeforces 816B- Karen and Coffee](https://codeforces.com/problemset/problem/816/B) [[Solução](upsolving/816b_karen_and_coffee.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 6.3. Upsolving 1: [Codeforces 816B- Karen and Coffee](https://codeforces.com/problemset/problem/816/B) [[Solução](upsolving/816b_karen_and_coffee.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 6.3. Upsolving 2: [Codeforces 295A - Greg and Array](https://codeforces.com/problemset/problem/295/A/) [[Solução](upsolving/greg_array.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 6.4. Upsolving 2: [Codeforces 295A - Greg and Array](https://codeforces.com/problemset/problem/295/A/) [[Solução](upsolving/greg_array.cpp)]
 
 
 ### Módulo III: Paradigmas de Resolução de Problemas
