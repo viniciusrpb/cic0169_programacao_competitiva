@@ -115,7 +115,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.1. [Implementação Tradicional](general/busca_binaria.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.2. [Lower and Upper Bounds](general/lower_upper_bound.cpp)
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.2. [Lower and Upper Bounds](general/lower_upper_bounds.cpp)
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.3. [Busca Binária da Resposta](general/buscabin_resposta.cpp)
 
