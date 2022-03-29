@@ -115,13 +115,15 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.1. [Implementação Tradicional](general/busca_binaria.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.2. [Busca Binária da Resposta](general/buscabin_resposta.cpp)
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.2. [Lower and Upper Bounds](general/lower_upper_bound.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.3. Upsolving 4: [706B - Interesting drink](https://codeforces.com/problemset/problem/706/B) [[Solução](upsolving/706b_interesting_drink.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.3. [Busca Binária da Resposta](general/buscabin_resposta.cpp)
+
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.4. Upsolving 4: [706B - Interesting drink](https://codeforces.com/problemset/problem/706/B) [[Solução](upsolving/706b_interesting_drink.cpp)]
     
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.4. Upsolving 5: [Beecrowd 1472 - Triângulos](https://www.beecrowd.com.br/judge/pt/problems/view/1472) [[Solução](upsolving/uri1472_triangles.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.5. Upsolving 5: [Beecrowd 1472 - Triângulos](https://www.beecrowd.com.br/judge/pt/problems/view/1472) [[Solução](upsolving/uri1472_triangles.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.5. Upsolving 6: [760B - Frodo and pillows](https://codeforces.com/problemset/problem/760/B) [[Solução](upsolving/760b_frodo_pillows.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.6. Upsolving 6: [760B - Frodo and pillows](https://codeforces.com/problemset/problem/760/B) [[Solução](upsolving/760b_frodo_pillows.cpp)]
 
 
 #### 9. Algoritmos Gulosos
