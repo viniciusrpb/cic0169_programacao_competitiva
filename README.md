@@ -148,7 +148,7 @@ Prof. Dr. Vinícius R. P. Borges
      
 &nbsp;&nbsp;&nbsp;&nbsp; 10.2. [Algoritmo de Kadane](general/kadane_two_pointers.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; 10.3. Upsolving 1: [544C - Balanced Teams](https://codeforces.com/problemset/problem/1133/C) [[Solução](upsolving/544c_balanced_teams.cpp]
+&nbsp;&nbsp;&nbsp;&nbsp; 10.3. Upsolving 1: [544C - Balanced Teams](https://codeforces.com/problemset/problem/1133/C) [[Solução](upsolving/544c_balanced_teams.cpp)]
 
 &nbsp;&nbsp;&nbsp;&nbsp; 10.4. Upsolving 2: [1343C - Alternating Subsequence](https://codeforces.com/problemset/problem/1343/C) [[Solução](upsolving/1343c_alternating_subsequence.cpp)]
 
