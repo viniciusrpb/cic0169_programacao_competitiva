@@ -117,7 +117,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.2. [Lower and Upper Bounds](general/lower_upper_bounds.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.3. [Busca Binária da Resposta](general/buscabin_resposta.cpp)
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.3. [Busca Binária na Resposta](general/buscabin_resposta.cpp)
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.4. Upsolving 4: [706B - Interesting drink](https://codeforces.com/problemset/problem/706/B) [[Solução](upsolving/706b_interesting_drink.cpp)]
     
@@ -133,6 +133,14 @@ Prof. Dr. Vinícius R. P. Borges
 &nbsp;&nbsp;&nbsp;&nbsp; 9.2. [Maximizar Tarefas (Intervalos) Disjuntos](general/max_tarefas_disjuntas.cpp)
 
 &nbsp;&nbsp;&nbsp;&nbsp; 9.3. [Problema da Mochila Fracionária](general/frac_knapsack.cpp)
+
+&nbsp;&nbsp;&nbsp;&nbsp; 9.4. Upsolving 1: [1197C - Array Splitting](https://codeforces.com/problemset/problem/1197/C) [[Solução](upsolving/1197c_array_splitting.cpp]
+
+&nbsp;&nbsp;&nbsp;&nbsp; 9.5. Upsolving 2: [492C - Vanya and Exams](https://codeforces.com/problemset/problem/492/C) [[Solução](upsolving/492c_vanya_exams.cpp)]
+
+&nbsp;&nbsp;&nbsp;&nbsp; 9.6. Upsolving 3: [1446A - Knapsack](https://codeforces.com/problemset/problem/1446/A
+) [[Solução](upsolving/1446a_knapsack.cpp)]
+
     
 #### 10. Análise amortizada: Two Pointers
 
@@ -140,7 +148,12 @@ Prof. Dr. Vinícius R. P. Borges
      
 &nbsp;&nbsp;&nbsp;&nbsp; 10.2. [Algoritmo de Kadane](general/kadane_two_pointers.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; 10.3. [Upsolving 1:](upsolving/cf_544c_balancedteams.cpp) *resolução do problema "Codeforces #544C - Balanced Teams"*
+&nbsp;&nbsp;&nbsp;&nbsp; 10.3. Upsolving 1: [544C - Balanced Teams](https://codeforces.com/problemset/problem/1133/C) [[Solução](upsolving/544c_balanced_teams.cpp]
+
+&nbsp;&nbsp;&nbsp;&nbsp; 10.4. Upsolving 2: [1343C - Alternating Subsequence](https://codeforces.com/problemset/problem/1343/C) [[Solução](upsolving/1343c_alternating_subsequence.cpp)]
+
+&nbsp;&nbsp;&nbsp;&nbsp; 10.5. Upsolving 3: [919C - Seat Arrangements](https://codeforces.com/contest/919/problem/C) [[Solução](upsolving/919c_seat_arrangements.cpp)]
+
 
 #### 11. Fundamentos de Programação Dinâmica
 
