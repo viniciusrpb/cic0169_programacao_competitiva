@@ -134,7 +134,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 9.3. [Problema da Mochila Fracionária](general/frac_knapsack.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; 9.4. Upsolving 1: [1197C - Array Splitting](https://codeforces.com/problemset/problem/1197/C) [[Solução](upsolving/1197c_array_splitting.cpp]
+&nbsp;&nbsp;&nbsp;&nbsp; 9.4. Upsolving 1: [1197C - Array Splitting](https://codeforces.com/problemset/problem/1197/C) [[Solução](upsolving/1197c_array_splitting.cpp)]
 
 &nbsp;&nbsp;&nbsp;&nbsp; 9.5. Upsolving 2: [492C - Vanya and Exams](https://codeforces.com/problemset/problem/492/C) [[Solução](upsolving/492c_vanya_exams.cpp)]
 
