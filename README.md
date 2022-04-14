@@ -150,8 +150,6 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 10.3. Upsolving 2: [1343C - Alternating Subsequence](https://codeforces.com/problemset/problem/1343/C) [[Solução](upsolving/1343c_alternating_subsequence.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 10.4. Upsolving 3: [919C - Seat Arrangements](https://codeforces.com/contest/919/problem/C) [[Solução](upsolving/919c_seat_arrangements.cpp)]
-
 
 #### 11. Fundamentos de Programação Dinâmica
 
