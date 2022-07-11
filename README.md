@@ -36,21 +36,22 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 2.2. Alocação Dinâmica de Memória (malloc)
 
-<!--
 #### 3. Operadores Bitwise e Bitmasks
 
 &nbsp;&nbsp;&nbsp;&nbsp; 3.1. [Operadores Bitwise](general/op_bitwise.cpp)
 
 &nbsp;&nbsp;&nbsp;&nbsp; 3.2. [Bitmasks](general/bitmask.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; 3.3. Upsolving: [Codeforces 1421A - XORwice](https://codeforces.com/problemset/problem/1421/A ) [[Solução](upsolving/cf_xorwice.cpp)] 
+&nbsp;&nbsp;&nbsp;&nbsp; 3.3. Upsolving: [Codeforces 1421A - XORwice](https://codeforces.com/problemset/problem/1421/A ) [[Solução](upsolving/1421a_xorwice.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 3.4. Upsolving: [Codeforces 1949A - ABC String](https://codeforces.com/problemset/problem/1494/A) [[Solução](upsolving/abc_string.cpp)] 
+&nbsp;&nbsp;&nbsp;&nbsp; 3.4. Upsolving: [Codeforces 1698A - XOR Mixup](https://codeforces.com/problemset/problem/1698/A) [[Solução](upsolving/1698a_xor_mixup.cpp)] 
 
-&nbsp;&nbsp;&nbsp;&nbsp; 3.5. Upsolving: [Codeforces 550B - Preparing Olympiad](https://codeforces.com/contest/550/problem/B) [[Solução](upsolving/preparing_olympiad.cpp)] 
+&nbsp;&nbsp;&nbsp;&nbsp; 3.5. Upsolving: [Codeforces 1949A - ABC String](https://codeforces.com/problemset/problem/1494/A) [[Solução](upsolving/1949a_abc_string.cpp)] 
+
+&nbsp;&nbsp;&nbsp;&nbsp; 3.6. Upsolving: [Codeforces 550B - Preparing Olympiad](https://codeforces.com/contest/550/problem/B) [[Solução](upsolving/550b_preparing_olympiad.cpp)] 
 
 ### Módulo II: Estruturas de Dados
-
+<!--
 #### 4. Estruturas de Dados Lineares
 
 &nbsp;&nbsp;&nbsp;&nbsp; 4.1. [Fila](general/stl_queue.cpp)
