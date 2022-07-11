@@ -22,7 +22,13 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 1.2. Ordenação
 
-&nbsp;&nbsp;&nbsp;&nbsp; 1.3. Upsolving: [Codeforces 992A - Nastya and an Array](https://codeforces.com/contest/992/problem/A) [[Solução](upsolving/nastya_array.cpp)] 
+&nbsp;&nbsp;&nbsp;&nbsp; 1.3. Upsolving 1: [Codeforces 992A - Nastya and an Array](https://codeforces.com/contest/992/problem/A) [[Solução](upsolving/nastya_array.cpp)]
+
+&nbsp;&nbsp;&nbsp;&nbsp; 1.4. Upsolving 2: [Codeforces 706B - Interesting drink](https://codeforces.com/problemset/problem/706/B) [[Solução](upsolving/706b_interesting_drink.cpp)]
+
+&nbsp;&nbsp;&nbsp;&nbsp; 1.5. Upsolving 3: [Codeforces 25A - IQ Test](https://codeforces.com/problemset/problem/25/A) [[Solução](upsolving/25a_iq_test.cpp)]
+
+&nbsp;&nbsp;&nbsp;&nbsp; 1.6. Upsolving 4: [Codeforces 50A - Domino Pilling](https://codeforces.com/problemset/problem/50/A) [[Solução](upsolving/50a_domino_pilling.cpp)]
   
 #### 2. Ponteiros e Alocação Dinâmica de Memória
 
@@ -119,8 +125,6 @@ Prof. Dr. Vinícius R. P. Borges
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.2. [Lower and Upper Bounds](general/lower_upper_bounds.cpp)
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.3. [Busca Binária na Resposta](general/buscabin_resposta.cpp)
-
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.4. Upsolving 4: [706B - Interesting drink](https://codeforces.com/problemset/problem/706/B) [[Solução](upsolving/706b_interesting_drink.cpp)]
     
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.5. Upsolving 5: [Beecrowd 1472 - Triângulos](https://www.beecrowd.com.br/judge/pt/problems/view/1472) [[Solução](upsolving/uri1472_triangles.cpp)]
 
