@@ -11,115 +11,51 @@
  * 
  * Compilar no terminal: g++ 550b_preparing_olympiad.cpp -std=c++11 -o olimp
  * Executar: ./olimp
+ * 
+ * Complexidade: O(2^n)
  */
 
 #include<bits/stdc++.h>
  
 using namespace std;
  
-int n,l,r,x;
+int l,r,x,n;
 vector<int> problems;
  
-bool isSet(int pos, int number)
+int busca_completa(int bitmask, int atual, int qt, int soma, int menor, int maior)
 {
-    int pot2 = (1<<pos);
-    if(number & pot2)
-        return true;
-    else
-        return false;
-}
- 
-int addElement(int pos, int number)
-{
-    int pot2 = (1<<pos);
-    return (number | pot2);
-}
- 
-// O(1)
-int LSB(int number)
-{
-    int pos=32;
-    while(number)
+    if(atual >= n)
     {
-        number = number << 1;
-        pos--;
-    }
-    return pos;
-}
- 
-int LSB2(int number)
-{
-    return log2(number & -number);
-}
- 
-// 
-int MSB(int number)
-{
-    int pos = 0;
-    while(number > 1)
-    {
-        number = (number >> 1);
-        pos++;
-    }
-    return pos;
-}
- 
-int bitmask2dec(int bitmask, int *menor, int *maior)
-{
-    int ans = 0;
-    
-    for(int i = 0; i < n; i++)
-    {
-        if(isSet(i,bitmask))
-        {
-            ans = ans+problems[i];
-            *menor = min(*menor,problems[i]);
-            *maior = max(*maior,problems[i]);
-        }
-    }
-    return ans;
-}
- 
-int busca_completa(int c, int bitmask)
-{
-    if(c < 0)
-    {
-        int menor=1e9,maior=-1e9;
-        if(bitmask < 1)
-            return 0;
-        
-        //int dif = abs(problems[MSB(bitmask)]-problems[LSB(bitmask)]);
-        
-        int soma = bitmask2dec(bitmask,&menor,&maior);
-        int dif = maior-menor;
-        
-        if(soma >= l and soma <= r and dif >= x)
+        //printf("bitmask: %d menor: %d maior: %d soma: %d\n",bitmask,menor,maior,soma);
+        //printf("qt: %d l: %d r: %d x: %d ",qt,l,r,x);
+        if(qt >= 2 and soma >= l and soma <= r and maior-menor >= x){
             return 1;
+        }
         else
             return 0;
     }
     
-    int pega = busca_completa(c-1,addElement(c,bitmask));
-    int nao_pega = busca_completa(c-1,bitmask);
+    int pega = busca_completa(bitmask|(1 << atual),atual+1,qt+1,soma+problems[atual],min(menor, problems[atual]),max(maior,problems[atual]));
+    int nao_pega = busca_completa(bitmask,atual+1,qt,soma,menor,maior);
     
-    return pega+nao_pega;
+    return pega + nao_pega; 
 }
  
-int main()
-{
-    int c;
+int main(){
+    
+    int ans;
     
     scanf("%d %d %d %d",&n,&l,&r,&x);
     
     for(int i = 0; i < n; i++)
     {
-        scanf("%d",&c);
-        problems.push_back(c);
+        scanf("%d",&ans);
+        problems.push_back(ans);
     }
     
-    //sort(problems.begin(),problems.end());
+    ans = busca_completa(0,0,0,0,1000002,-1);
     
-    printf("%d\n",busca_completa(n-1,0));
+    printf("%d\n",ans);
     
     return 0;
 }
