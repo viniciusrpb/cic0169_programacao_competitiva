@@ -11,7 +11,7 @@
  * 
  * Compilar no terminal: g++ 1421a_xorwice.cpp -std=c++17 -o cf_xorwice
  * Executar: ./cf_xorwice
- * Complexidade: O(1)
+ * Complexidade: O(t) no tempo
  */
 
 
