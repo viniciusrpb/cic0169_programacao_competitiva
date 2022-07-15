@@ -9,8 +9,9 @@
  * 
  * POR FAVOR: nao submeter esse código-fonte diretamente no Codeforces
  * 
- * Compilar no terminal: g++ cf_xorwice.cpp -std=c++11 -o cf_xorwice
+ * Compilar no terminal: g++ 1421a_xorwice.cpp -std=c++17 -o cf_xorwice
  * Executar: ./cf_xorwice
+ * Complexidade: O(1)
  */
 
 
