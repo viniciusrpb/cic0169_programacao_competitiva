@@ -49,7 +49,7 @@ Prof. Dr. Vinícius R. P. Borges
 &nbsp;&nbsp;&nbsp;&nbsp; 3.5. Upsolving: [Codeforces 550B - Preparing Olympiad](https://codeforces.com/contest/550/problem/B) [[Solução](upsolving/550b_preparing_olympiad.cpp)] 
 
 ### Módulo II: Estruturas de Dados
-<!--
+
 #### 4. Estruturas de Dados Lineares
 
 &nbsp;&nbsp;&nbsp;&nbsp; 4.1. [Fila](general/stl_queue.cpp)
@@ -60,11 +60,11 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 4.4. Upsolving: [Codeforces 343B - Alternating Current](https://codeforces.com/contest/343/problem/B) [[Solução](upsolving/343b_alternating_current.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 4.5. Upsolving: [Codeforces 1949A - ABC String](https://codeforces.com/problemset/problem/1494/A) [[Solução](upsolving/1949a_abc_string.cpp)] 
+<!--&nbsp;&nbsp;&nbsp;&nbsp; 4.5. Upsolving: [Codeforces 1949A - ABC String](https://codeforces.com/problemset/problem/1494/A) [[Solução](upsolving/1949a_abc_string.cpp)] -->
 
-&nbsp;&nbsp;&nbsp;&nbsp; 4.6. Upsolving: [Beecrowd 2065 - Supermarket Line](https://www.beecrowd.com.br/judge/pt/problems/view/2065) [[Solução](upsolving/beecrowd_2056.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 4.5. Upsolving: [Beecrowd 2065 - Supermarket Line](https://www.beecrowd.com.br/judge/pt/problems/view/2065) [[Solução](upsolving/beecrowd_2056.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 4.7. Upsolving [Codeforces 982B - Bus of Characters](https://codeforces.com/problemset/problem/982/B) *Priority Queue*
+&nbsp;&nbsp;&nbsp;&nbsp; 4.6. Upsolving [Codeforces 982B - Bus of Characters](https://codeforces.com/problemset/problem/982/B) *Priority Queue*
 
 #### 5. Estruturas de Dados Não-Lineares
 
@@ -73,7 +73,7 @@ Prof. Dr. Vinícius R. P. Borges
 &nbsp;&nbsp;&nbsp;&nbsp; 5.2. Map
 
 &nbsp;&nbsp;&nbsp;&nbsp; 5.3. Upsolving: [Codeforces 1234D - Distinct Characters Queries](https://codeforces.com/contest/1234/problem/D) [[Solução](upsolving/1234d_distinct_characters_queries.cpp)]
-
+<!--
 #### 6. Soma de Prefixos e Codificação Delta
 
 &nbsp;&nbsp;&nbsp;&nbsp; 6.1. Soma de Prefixos (*Prefix sum*): [Exemplo básico](general/prefix_sum.cpp)
