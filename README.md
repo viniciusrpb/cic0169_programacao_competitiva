@@ -28,7 +28,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 1.5. Upsolving 3: [Codeforces 25A - IQ Test](https://codeforces.com/problemset/problem/25/A) [[Solução](upsolving/25a_iq_test.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 1.6. Upsolving 4: [Codeforces 50A - Domino Pilling](https://codeforces.com/problemset/problem/50/A) [[Solução](upsolving/50a_domino_pilling.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 1.6. Upsolving 4: [Codeforces 50A - Domino Pilling](https://codeforces.com/problemset/problem/50/A) [[Solução](upsolving/50a_domino_piling.cpp)]
   
 #### 2. Ponteiros e Alocação Dinâmica de Memória
 
