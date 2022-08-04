@@ -65,6 +65,10 @@ Prof. Dr. Vinícius R. P. Borges
 <!--&nbsp;&nbsp;&nbsp;&nbsp; 4.8. Upsolving: [Codeforces 1949A - ABC String](https://codeforces.com/problemset/problem/1494/A) [[Solução](upsolving/1949a_abc_string.cpp)] 
 
 &nbsp;&nbsp;&nbsp;&nbsp; 4.9. Upsolving: [Codeforces 704A - Thor](https://codeforces.com/problemset/problem/704/A) [[Solução](upsolving/1949a_abc_string.cpp)]  
+
+[Codeforces 1530C - Pursuit](https://codeforces.com/problemset/problem/1530/C) pq
+ 
+[Codeforces 749C - Voting]https://codeforces.com/contest/749/problem/C queue
 -->
 
 &nbsp;&nbsp;&nbsp;&nbsp; 4.6. Upsolving: [Beecrowd 2065 - Supermarket Line](https://www.beecrowd.com.br/judge/pt/problems/view/2065) [[Solução](upsolving/beecrowd_2056.cpp)]
