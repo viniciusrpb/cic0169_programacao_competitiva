@@ -62,7 +62,10 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 4.5. Upsolving: [Codeforces 1153A - Serval and Bus](https://codeforces.com/problemset/problem/1153/A) [[Solução](upsolving/343b_alternating_current.cpp)]
 
-<!--&nbsp;&nbsp;&nbsp;&nbsp; 4.5. Upsolving: [Codeforces 1949A - ABC String](https://codeforces.com/problemset/problem/1494/A) [[Solução](upsolving/1949a_abc_string.cpp)] -->
+<!--&nbsp;&nbsp;&nbsp;&nbsp; 4.8. Upsolving: [Codeforces 1949A - ABC String](https://codeforces.com/problemset/problem/1494/A) [[Solução](upsolving/1949a_abc_string.cpp)] 
+
+&nbsp;&nbsp;&nbsp;&nbsp; 4.9. Upsolving: [Codeforces 704A - Thor](https://codeforces.com/problemset/problem/704/A) [[Solução](upsolving/1949a_abc_string.cpp)]  
+-->
 
 &nbsp;&nbsp;&nbsp;&nbsp; 4.6. Upsolving: [Beecrowd 2065 - Supermarket Line](https://www.beecrowd.com.br/judge/pt/problems/view/2065) [[Solução](upsolving/beecrowd_2056.cpp)]
 
