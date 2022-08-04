@@ -93,7 +93,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 6.4. Upsolving 2: [Codeforces 295A - Greg and Array](https://codeforces.com/problemset/problem/295/A/) [[Solução](upsolving/greg_array.cpp)]
 
-<!--
+
 ### Módulo III: Paradigmas de Resolução de Problemas
 
 #### 7. Busca Completa
@@ -114,6 +114,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.2.3. Upsolving 5: [Codeforces 339C - Xenia and Weights](https://codeforces.com/problemset/problem/339/C) [[Solução](upsolving/339c_xenia_weights.cpp)]
 
+<!--
 #### 8. Divisão-e-Conquista
 
 &nbsp;&nbsp;&nbsp;&nbsp; 8.1. Merge Sort
