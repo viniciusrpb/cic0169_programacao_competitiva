@@ -116,9 +116,9 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.2.4. Upsolving 6: [Codeforces 339C - Xenia and Weights](https://codeforces.com/problemset/problem/339/C) [[Solução](upsolving/339c_xenia_weights.cpp)]
 
-<!--
-#### 8. Divisão-e-Conquista
 
+#### 8. Divisão-e-Conquista
+<!--
 &nbsp;&nbsp;&nbsp;&nbsp; 8.1. Merge Sort
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.1. [Implementação Tradicional](general/merge_sort.cpp)
