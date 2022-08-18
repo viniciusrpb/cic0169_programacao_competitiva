@@ -112,7 +112,9 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.2.2. Upsolving 4: [Beecrowd 1556 - Removing Letters](https://www.beecrowd.com.br/judge/en/problems/view/1556) [[Solução](upsolving/beecrowd_1556.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.2.3. Upsolving 5: [Codeforces 339C - Xenia and Weights](https://codeforces.com/problemset/problem/339/C) [[Solução](upsolving/339c_xenia_weights.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.2.3. Upsolving 5: [Codeforces 510B - Fox and Two Dots](https://codeforces.com/problemset/problem/510/B) [[Solução](upsolving/510b_fox_twodots.cpp)]
+
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.2.4. Upsolving 6: [Codeforces 339C - Xenia and Weights](https://codeforces.com/problemset/problem/339/C) [[Solução](upsolving/339c_xenia_weights.cpp)]
 
 <!--
 #### 8. Divisão-e-Conquista
