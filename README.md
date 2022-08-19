@@ -131,6 +131,9 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.5. Upsolving 3: [1490D - Permutation Transformation](https://codeforces.com/problemset/problem/1490/D) [[Solução](upsolving/1490d_permutation_transformation.cpp)]
 
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.5. Upsolving 3: [1461D - Divide and Summarize](https://codeforces.com/contest/1461/problem/D) [[Solução](upsolving/1461d_divide_summarize.cpp)]
+
+
 &nbsp;&nbsp;&nbsp;&nbsp; 8.2. Busca Binária
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.1. [Implementação Tradicional](general/busca_binaria.cpp)
