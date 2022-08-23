@@ -118,7 +118,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 
 #### 8. Divisão-e-Conquista
-<--
+<!--
 &nbsp;&nbsp;&nbsp;&nbsp; 8.1. Merge Sort
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.1. [Implementação Tradicional](general/merge_sort.cpp)
