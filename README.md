@@ -118,7 +118,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 
 #### 8. Divisão-e-Conquista
-<!--
+<--
 &nbsp;&nbsp;&nbsp;&nbsp; 8.1. Merge Sort
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.1. [Implementação Tradicional](general/merge_sort.cpp)
@@ -132,21 +132,21 @@ Prof. Dr. Vinícius R. P. Borges
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.5. Upsolving 3: [1490D - Permutation Transformation](https://codeforces.com/problemset/problem/1490/D) [[Solução](upsolving/1490d_permutation_transformation.cpp)]
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.5. Upsolving 3: [1461D - Divide and Summarize](https://codeforces.com/contest/1461/problem/D) [[Solução](upsolving/1461d_divide_summarize.cpp)]
+-->
 
+&nbsp;&nbsp;&nbsp;&nbsp; 8.1. Busca Binária
 
-&nbsp;&nbsp;&nbsp;&nbsp; 8.2. Busca Binária
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.1. [Implementação Tradicional](general/busca_binaria.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.1. [Implementação Tradicional](general/busca_binaria.cpp)
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.2. [Lower and Upper Bounds](general/lower_upper_bounds.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.2. [Lower and Upper Bounds](general/lower_upper_bounds.cpp)
-
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.3. [Busca Binária na Resposta](general/buscabin_resposta.cpp)
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.3. [Busca Binária na Resposta](general/buscabin_resposta.cpp)
     
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.5. Upsolving 5: [Beecrowd 1472 - Triângulos](https://www.beecrowd.com.br/judge/pt/problems/view/1472) [[Solução](upsolving/uri1472_triangles.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.4. Upsolving 5: [Beecrowd 1472 - Triângulos](https://www.beecrowd.com.br/judge/pt/problems/view/1472) [[Solução](upsolving/uri1472_triangles.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.6. Upsolving 6: [760B - Frodo and pillows](https://codeforces.com/problemset/problem/760/B) [[Solução](upsolving/760b_frodo_pillows.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.5. Upsolving 6: [760B - Frodo and Pillows](https://codeforces.com/problemset/problem/760/B) [[Solução](upsolving/760b_frodo_pillows.cpp)]
 
-
+<!--
 #### 9. Algoritmos Gulosos
 
 &nbsp;&nbsp;&nbsp;&nbsp; 9.1. [Problema do Escalonamento de Tarefas](general/escalonamento_tarefas.cpp)
