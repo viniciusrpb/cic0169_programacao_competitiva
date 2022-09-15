@@ -144,9 +144,9 @@ Prof. Dr. Vinícius R. P. Borges
     
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.4. Upsolving 1: [Beecrowd 1472 - Triângulos](https://www.beecrowd.com.br/judge/pt/problems/view/1472) [[Solução](upsolving/uri1472_triangles.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.5. Upsolving 2: [1676E - Eating Queries](https://codeforces.com/problemset/problem/1676/E) [[Solução](upsolving/1676e_eating_queries.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.5. Upsolving 2: [Codeforces 1676E - Eating Queries](https://codeforces.com/problemset/problem/1676/E) [[Solução](upsolving/1676e_eating_queries.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.6. Upsolving 3: [760B - Frodo and Pillows](https://codeforces.com/problemset/problem/760/B) [[Solução](upsolving/760b_frodo_pillows.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.6. Upsolving 3: [Codeforces 760B - Frodo and Pillows](https://codeforces.com/problemset/problem/760/B) [[Solução](upsolving/760b_frodo_pillows.cpp)]
 
 
 #### 9. Algoritmos Gulosos
@@ -157,11 +157,11 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 9.3. [Problema da Mochila Fracionária](general/frac_knapsack.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; 9.4. Upsolving 1: [1197C - Array Splitting](https://codeforces.com/problemset/problem/1197/C) [[Solução](upsolving/1197c_array_splitting.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 9.4. Upsolving 1: [Codeforces 1197C - Array Splitting](https://codeforces.com/problemset/problem/1197/C) [[Solução](upsolving/1197c_array_splitting.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 9.5. Upsolving 2: [492C - Vanya and Exams](https://codeforces.com/problemset/problem/492/C) [[Solução](upsolving/492c_vanya_exams.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 9.5. Upsolving 2: [Codeforces 492C - Vanya and Exams](https://codeforces.com/problemset/problem/492/C) [[Solução](upsolving/492c_vanya_exams.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 9.6. Upsolving 3: [1446A - Knapsack](https://codeforces.com/problemset/problem/1446/A
+&nbsp;&nbsp;&nbsp;&nbsp; 9.6. Upsolving 3: [Codeforces 1446A - Knapsack](https://codeforces.com/problemset/problem/1446/A
 ) [[Solução](upsolving/1446a_knapsack.cpp)]
 
     
@@ -169,12 +169,12 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 10.1. [Problemas clássicos](general/two_pointers.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; 10.2. Upsolving 1: [1133C - Balanced Teams](https://codeforces.com/problemset/problem/1133/C) [[Solução](upsolving/1133c_balanced_teams.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 10.2. Upsolving 1: [Codeforces 1133C - Balanced Teams](https://codeforces.com/problemset/problem/1133/C) [[Solução](upsolving/1133c_balanced_teams.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 10.3. Upsolving 2: [279B - Books](https://codeforces.com/problemset/problem/279/B) [[Solução](upsolving/279b_books.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 10.3. Upsolving 2: [Codeforces 279B - Books](https://codeforces.com/problemset/problem/279/B) [[Solução](upsolving/279b_books.cpp)]
 
 
-&nbsp;&nbsp;&nbsp;&nbsp; 10.3. Upsolving 2: [1343C - Alternating Subsequence](https://codeforces.com/problemset/problem/1343/C) [[Solução](upsolving/1343c_alternating_subsequence.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 10.3. Upsolving 2: [Codeforces 1343C - Alternating Subsequence](https://codeforces.com/problemset/problem/1343/C) [[Solução](upsolving/1343c_alternating_subsequence.cpp)]
 
 
 
