@@ -69,7 +69,6 @@ Prof. Dr. Vinícius R. P. Borges
 [Codeforces 1530C - Pursuit](https://codeforces.com/problemset/problem/1530/C) pq
  
 [Codeforces 749C - Voting]https://codeforces.com/contest/749/problem/C queue
--->
 
 &nbsp;&nbsp;&nbsp;&nbsp; 4.6. Upsolving: [Beecrowd 2065 - Supermarket Line](https://www.beecrowd.com.br/judge/pt/problems/view/2065) [[Solução](upsolving/beecrowd_2056.cpp)]
 
@@ -118,7 +117,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 
 #### 8. Divisão-e-Conquista
-<!--
+
 &nbsp;&nbsp;&nbsp;&nbsp; 8.1. Merge Sort
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.1. [Implementação Tradicional](general/merge_sort.cpp)
@@ -132,7 +131,7 @@ Prof. Dr. Vinícius R. P. Borges
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.5. Upsolving 3: [1490D - Permutation Transformation](https://codeforces.com/problemset/problem/1490/D) [[Solução](upsolving/1490d_permutation_transformation.cpp)]
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.5. Upsolving 3: [1461D - Divide and Summarize](https://codeforces.com/contest/1461/problem/D) [[Solução](upsolving/1461d_divide_summarize.cpp)]
--->
+
 
 &nbsp;&nbsp;&nbsp;&nbsp; 8.1. Busca Binária
 
