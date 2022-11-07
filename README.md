@@ -18,7 +18,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 #### 1. Fundamentos de Linguagem C/C++
 
-&nbsp;&nbsp;&nbsp;&nbsp; 1.1. Template C++
+&nbsp;&nbsp;&nbsp;&nbsp; 1.1. [Template C++ (aula 07/11/2022)](general/vinicius.cpp)
 
 &nbsp;&nbsp;&nbsp;&nbsp; 1.2. Ordenação
 
