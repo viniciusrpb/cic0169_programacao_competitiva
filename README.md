@@ -35,6 +35,9 @@ Prof. Dr. Vinícius R. P. Borges
 &nbsp;&nbsp;&nbsp;&nbsp; 2.1. Ponteiros e Iterators
 
 &nbsp;&nbsp;&nbsp;&nbsp; 2.2. Alocação Dinâmica de Memória (malloc)
+
+
+
 <!--
 #### 3. Operadores Bitwise e Bitmasks
 
@@ -47,6 +50,8 @@ Prof. Dr. Vinícius R. P. Borges
 &nbsp;&nbsp;&nbsp;&nbsp; 3.4. Upsolving: [Codeforces 1698A - XOR Mixup](https://codeforces.com/problemset/problem/1698/A) [[Solução](upsolving/1698a_xor_mixup.cpp)] 
 
 &nbsp;&nbsp;&nbsp;&nbsp; 3.5. Upsolving: [Codeforces 550B - Preparing Olympiad](https://codeforces.com/contest/550/problem/B) [[Solução](upsolving/550b_preparing_olympiad.cpp)] 
+
+-->
 
 ### Módulo II: Estruturas de Dados
 
