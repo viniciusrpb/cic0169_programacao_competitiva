@@ -12,7 +12,10 @@
  * Compilar no terminal: g++ beecrowd_1523.cpp -std=c++17 -o carros
  * Executar: ./carros
  * 
- * Complexidade: O(2n)  => Cada carro entra na pilha uma única vez, como também sai uma única vez. Operações básicas da pilha (push, pop, top, empty) são executadas em tempo O(1).
+ * Complexidade: O(2n)  => Cada carro entra na pilha (estacionamento) uma única vez, como também sai uma única vez.                       
+ *                         Como a quantidade n de carros é referência do tamanho da entrada e as operações básicas
+ *                         da pilha (push e pop) são executadas em tempo O(1), a complexidade depende da quantidade
+ *                         total de operações feitas na pilha. Considerando push e pop, O(2n). 
  */
 
 #include<bits/stdc++.h>
