@@ -87,7 +87,11 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 5.2. Map
 
-&nbsp;&nbsp;&nbsp;&nbsp; 5.3. Upsolving: [Codeforces 1234D - Distinct Characters Queries](https://codeforces.com/contest/1234/problem/D) [[Solução](upsolving/1234d_distinct_characters_queries.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 5.3. Upsolving: [Codeforces Good Bye 2020 - Bovine Dilemma](https://codeforces.com/contest/1466/problem/A) [[Solução](upsolving/1466a_bovine_dilemma.cpp)]
+
+&nbsp;&nbsp;&nbsp;&nbsp; 5.4. Upsolving: [Codeforces 1234D - Distinct Characters Queries](https://codeforces.com/contest/1234/problem/D) [[Solução](upsolving/1234d_distinct_characters_queries.cpp)]
+
+
 
 #### 6. Soma de Prefixos e Codificação Delta
 
