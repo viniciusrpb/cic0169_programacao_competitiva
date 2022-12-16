@@ -37,7 +37,6 @@ Prof. Dr. Vinícius R. P. Borges
 &nbsp;&nbsp;&nbsp;&nbsp; 2.2. Alocação Dinâmica de Memória (malloc)
 
 
-
 <!--
 #### 3. Operadores Bitwise e Bitmasks
 
@@ -47,9 +46,9 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 3.3. Upsolving: [Codeforces 1421A - XORwice](https://codeforces.com/problemset/problem/1421/A ) [[Solução](upsolving/1421a_xorwice.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 3.4. Upsolving: [Codeforces 1698A - XOR Mixup](https://codeforces.com/problemset/problem/1698/A) [[Solução](upsolving/1698a_xor_mixup.cpp)] 
+&nbsp;&nbsp;&nbsp;&nbsp; 3.4. Upsolving: [Codeforces 1698A - XOR Mixup](https://codeforces.com/problemset/problem/1698/A) [[Solução](upsolving/1698a_xor_mixup.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 3.5. Upsolving: [Codeforces 550B - Preparing Olympiad](https://codeforces.com/contest/550/problem/B) [[Solução](upsolving/550b_preparing_olympiad.cpp)] 
+&nbsp;&nbsp;&nbsp;&nbsp; 4.8. Upsolving: [Codeforces 1949A - ABC String](https://codeforces.com/problemset/problem/1494/A) [[Solução](upsolving/1949a_abc_string.cpp)] 
 
 -->
 
@@ -65,21 +64,13 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 4.4. Upsolving: [Codeforces 343B - Alternating Current](https://codeforces.com/contest/343/problem/B) [[Solução](upsolving/343b_alternating_current.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 4.5. Upsolving: [Codeforces 1153A - Serval and Bus](https://codeforces.com/problemset/problem/1153/A) [[Solução](upsolving/343b_alternating_current.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 4.5. Upsolving: [Codeforces 1153A - Serval and Bus](https://codeforces.com/problemset/problem/1153/A) [[Solução](upsolving/1153a_serval_bus.cpp)]
 
 &nbsp;&nbsp;&nbsp;&nbsp; 4.6. Upsolving: [Beecrowd 1523 - Estacionamento Linear](https://www.beecrowd.com.br/judge/pt/problems/view/1523) [[Solução](upsolving/beecrowd_1523.cpp)]
 
-<!--&nbsp;&nbsp;&nbsp;&nbsp; 4.8. Upsolving: [Codeforces 1949A - ABC String](https://codeforces.com/problemset/problem/1494/A) [[Solução](upsolving/1949a_abc_string.cpp)] 
-
-&nbsp;&nbsp;&nbsp;&nbsp; 4.9. Upsolving: [Codeforces 704A - Thor](https://codeforces.com/problemset/problem/704/A) [[Solução](upsolving/1949a_abc_string.cpp)]  
-
-[Codeforces 1530C - Pursuit](https://codeforces.com/problemset/problem/1530/C) pq
- 
-[Codeforces 749C - Voting]https://codeforces.com/contest/749/problem/C queue
-
 &nbsp;&nbsp;&nbsp;&nbsp; 4.6. Upsolving: [Beecrowd 2065 - Supermarket Line](https://www.beecrowd.com.br/judge/pt/problems/view/2065) [[Solução](upsolving/beecrowd_2056.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 4.7. Upsolving [Codeforces 982B - Bus of Characters](https://codeforces.com/problemset/problem/982/B) *Priority Queue* -->
+&nbsp;&nbsp;&nbsp;&nbsp; 4.7. Upsolving [Codeforces 982B - Bus of Characters](https://codeforces.com/problemset/problem/982/B) *Priority Queue*
 
 #### 5. Estruturas de Dados Não-Lineares
 
@@ -125,6 +116,8 @@ Prof. Dr. Vinícius R. P. Borges
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.2.3. Upsolving 5: [Codeforces 510B - Fox and Two Dots](https://codeforces.com/problemset/problem/510/B) [[Solução](upsolving/510b_fox_twodots.cpp)]
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.2.4. Upsolving 6: [Codeforces 339C - Xenia and Weights](https://codeforces.com/problemset/problem/339/C) [[Solução](upsolving/339c_xenia_weights.cpp)]
+
+&nbsp;&nbsp;&nbsp;&nbsp; 3.5. Upsolving: [Codeforces 550B - Preparing Olympiad](https://codeforces.com/contest/550/problem/B) [[Solução](upsolving/550b_preparing_olympiad.cpp)] 
 
 
 #### 8. Divisão-e-Conquista
