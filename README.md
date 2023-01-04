@@ -1,6 +1,6 @@
 # CIC0169 - Programação Competitiva
 
-Códigos-fontes produzidos na disciplina **CIC0169 - Programação Competitiva**, no curso de Bacharelado em Ciência da Computação e Bacharelado em Engenharia de Computação da Universidade de Brasília.
+Códigos-fontes produzidos na disciplina **CIC0169 - Programação Competitiva**, nos cursos de Bacharelado em Ciência da Computação e Bacharelado em Engenharia de Computação da Universidade de Brasília.
 
 Atenção: o Material Didático (Slides, Exercícios Resolvidos) na íntegra é possível obter no Aprender3/Moodle da disciplina, ou nos repositórios elaborados no decorrer dos últimos anos em:
 
