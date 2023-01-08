@@ -78,7 +78,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 6.4. Upsolving 2: [Codeforces 295A - Greg and Array](https://codeforces.com/problemset/problem/295/A/) [[Solução](upsolving/greg_array.cpp)]
 
-<!--
+
 #### 3. Operadores Bitwise e Bitmasks
 
 &nbsp;&nbsp;&nbsp;&nbsp; 3.1. [Operadores Bitwise](general/op_bitwise.cpp)
@@ -89,7 +89,9 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 3.4. Upsolving: [Codeforces 1698A - XOR Mixup](https://codeforces.com/problemset/problem/1698/A) [[Solução](upsolving/1698a_xor_mixup.cpp)]
 
+<!--
 &nbsp;&nbsp;&nbsp;&nbsp; 4.8. Upsolving: [Codeforces 1949A - ABC String](https://codeforces.com/problemset/problem/1494/A) [[Solução](upsolving/1949a_abc_string.cpp)] 
+
 
 ### Módulo III: Paradigmas de Resolução de Problemas
 
