@@ -89,13 +89,26 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 7.4. Upsolving: [Codeforces 1698A - XOR Mixup](https://codeforces.com/problemset/problem/1698/A) [[Solução](upsolving/1698a_xor_mixup.cpp)]
 
-<!--
-&nbsp;&nbsp;&nbsp;&nbsp; 4.8. Upsolving: [Codeforces 1949A - ABC String](https://codeforces.com/problemset/problem/1494/A) [[Solução](upsolving/1949a_abc_string.cpp)] 
+&nbsp;&nbsp;&nbsp;&nbsp; 7.5. Upsolving: [Codeforces 1949A - ABC String](https://codeforces.com/problemset/problem/1494/A) [[Solução](upsolving/1949a_abc_string.cpp)] 
 
 
 ### Módulo III: Paradigmas de Resolução de Problemas
 
 #### 7. Busca Completa
+
+&nbsp;&nbsp;&nbsp;&nbsp; 7.1. Busca em Profundidade e Backtracking
+
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.1.1. [Gerando subsets e permutações](general/buscacompleta.cpp)
+
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.1.2. Upsolving 4: [Beecrowd 1556 - Removing Letters](https://www.beecrowd.com.br/judge/en/problems/view/1556) [[Solução](upsolving/beecrowd_1556.cpp)]
+
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.1.3. Upsolving 5: [Codeforces 510B - Fox and Two Dots](https://codeforces.com/problemset/problem/510/B) [[Solução](upsolving/510b_fox_twodots.cpp)]
+
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.1.4. Upsolving 6: [Codeforces 339C - Xenia and Weights](https://codeforces.com/problemset/problem/339/C) [[Solução](upsolving/339c_xenia_weights.cpp)]
+
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.1.5. Upsolving: [Codeforces 550B - Preparing Olympiad](https://codeforces.com/contest/550/problem/B) [[Solução](upsolving/550b_preparing_olympiad.cpp)]
+
+<!--
 
 &nbsp;&nbsp;&nbsp;&nbsp; 7.1. Busca em Largura
 
@@ -104,18 +117,6 @@ Prof. Dr. Vinícius R. P. Borges
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.1.2. Upsolving 2: [Codeforces 520B - Two Buttons](https://codeforces.com/problemset/problem/520/B) [[Solução](upsolving/520b_two_buttons.cpp)]
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.1.3. Upsolving 3: [Beecrowd 1907 - Colouring Game Scenarios](https://www.beecrowd.com.br/judge/en/problems/view/1907) [[Solução](upsolving/beecrowd_1907.cpp)]
-
-&nbsp;&nbsp;&nbsp;&nbsp; 7.2. Busca em Profundidade e Backtracking
-
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.2.1. [Gerando subsets e permutações](general/buscacompleta.cpp)
-
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.2.2. Upsolving 4: [Beecrowd 1556 - Removing Letters](https://www.beecrowd.com.br/judge/en/problems/view/1556) [[Solução](upsolving/beecrowd_1556.cpp)]
-
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.2.3. Upsolving 5: [Codeforces 510B - Fox and Two Dots](https://codeforces.com/problemset/problem/510/B) [[Solução](upsolving/510b_fox_twodots.cpp)]
-
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.2.4. Upsolving 6: [Codeforces 339C - Xenia and Weights](https://codeforces.com/problemset/problem/339/C) [[Solução](upsolving/339c_xenia_weights.cpp)]
-
-&nbsp;&nbsp;&nbsp;&nbsp; 3.5. Upsolving: [Codeforces 550B - Preparing Olympiad](https://codeforces.com/contest/550/problem/B) [[Solução](upsolving/550b_preparing_olympiad.cpp)] 
 
 
 #### 8. Divisão-e-Conquista
