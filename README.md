@@ -2,17 +2,22 @@
 
 Códigos-fontes produzidos na disciplina **CIC0169 - Programação Competitiva**, nos cursos de Bacharelado em Ciência da Computação e Bacharelado em Engenharia de Computação da Universidade de Brasília.
 
+Esta disciplina cobre conteúdos importantes para trabalhar a capacidade de resolução de problemas dos competidores iniciantes e intermediários. Para estudar os tópicos específicos de programação competitiva como grafos, strings, teoria dos números, geometria computacional, programação dinâmica etc, consulte o repositório [CIC0258 - Tópicos Especiais em Programação Competitiva](https://github.com/viniciusrpb/cic0258_topicos_programacao_competitiva).
+
 Atenção: o Material Didático (Slides, Exercícios Resolvidos) na íntegra é possível obter no Aprender3/Moodle da disciplina, ou nos repositórios elaborados no decorrer dos últimos anos em:
 
 - [GitHub UnBalloon](https://github.com/unballoon)
 
 - [GitHub do Projeto de Extensão Maratona de Programação](https://github.com/UnB-CIC/Maratona-Extensao)
 
+
 ## Autores
 
 Prof. Dr. Vinícius R. P. Borges
 
+
 ## Sumário
+
 
 ### Módulo I: Fundamentos de Programação Competitiva
 
