@@ -9,48 +9,44 @@
  * 
  * POR FAVOR: nao submeter esse código-fonte diretamente no Codeforces
  * 
- * Compilar no terminal: g++ abc_string.cpp -std=c++11 -o abcstring
+ * Compilar no terminal: g++ 1949a_abc_string.cpp -std=c++17 -o abcstring
  * Executar: ./abcstring
+ * 
+ * Complexidade: O(8 * |string|)
  */
 
 #include<bits/stdc++.h>
  
 using namespace std;
  
-bool isSet(int num, int bitPos)
-{
+bool isSet(int num, int bitPos){
     return (num & (1 << bitPos)) != 0;
 }
  
-int main()
-{
+int main(){
     ios::sync_with_stdio(false);
     cin.tie(0);
     cout.tie(0);
+    
     int t;
     char brackets[2] = {'(',')'};
     
     cin >> t;
     
-    while(t--)
-    {
+    while(t--){
         string str;
         string ans = "NO\n";
         cin >> str;
         
-        for(int bitmask = 0; bitmask < 8; bitmask++)
-        {
+        for(int bitmask = 0; bitmask < 8; bitmask++){
             stack<int> pilha;
             
-            for(int i = 0; i < str.size(); i++)
-            {
+            for(int i = 0; i < str.size(); i++){
                 char c = brackets[isSet(bitmask,str[i]-'A')];
-                if(c == '(')
-                {
+                if(c == '('){
                     pilha.push(c);
                 }
-                else
-                {
+                else{
                     if(!pilha.empty() and pilha.top() == '(')
                         pilha.pop();
                     else
@@ -58,8 +54,7 @@ int main()
                 }
             }
             
-            if(pilha.empty())
-            {
+            if(pilha.empty()){
                 ans = "YES\n";
                 break;
             }
