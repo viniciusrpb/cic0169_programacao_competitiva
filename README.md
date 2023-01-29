@@ -113,7 +113,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.1.5. Upsolving 7: [Codeforces 550B - Preparing Olympiad](https://codeforces.com/contest/550/problem/B) [[Solução](upsolving/550b_preparing_olympiad.cpp)]
 
-<!--
+
 
 &nbsp;&nbsp;&nbsp;&nbsp; 7.1. Busca em Largura
 
@@ -155,7 +155,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.6. Upsolving 3: [Codeforces 760B - Frodo and Pillows](https://codeforces.com/problemset/problem/760/B) [[Solução](upsolving/760b_frodo_pillows.cpp)]
 
-
+<!--
 #### 9. Algoritmos Gulosos
 
 &nbsp;&nbsp;&nbsp;&nbsp; 9.1. [Problema do Escalonamento de Tarefas](general/escalonamento_tarefas.cpp)
