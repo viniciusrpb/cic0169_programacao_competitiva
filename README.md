@@ -157,6 +157,17 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.6. Upsolving 4: [Codeforces 760B - Frodo and Pillows](https://codeforces.com/problemset/problem/760/B) [[Solução](upsolving/760b_frodo_pillows.cpp)]
 
+#### 9. Análise amortizada: Two Pointers
+
+&nbsp;&nbsp;&nbsp;&nbsp; 9.1. [Problemas clássicos](general/two_pointers.cpp)
+
+&nbsp;&nbsp;&nbsp;&nbsp; 9.2. Upsolving 1: [Codeforces 1133C - Balanced Teams](https://codeforces.com/problemset/problem/1133/C) [[Solução](upsolving/1133c_balanced_teams.cpp)]
+
+&nbsp;&nbsp;&nbsp;&nbsp; 9.3. Upsolving 2: [Codeforces 279B - Books](https://codeforces.com/problemset/problem/279/B) [[Solução](upsolving/279b_books.cpp)]
+
+
+&nbsp;&nbsp;&nbsp;&nbsp; 10.3. Upsolving 2: [Codeforces 1343C - Alternating Subsequence](https://codeforces.com/problemset/problem/1343/C) [[Solução](upsolving/1343c_alternating_subsequence.cpp)]
+
 <!--
 #### 9. Algoritmos Gulosos
 
@@ -174,16 +185,7 @@ Prof. Dr. Vinícius R. P. Borges
 ) [[Solução](upsolving/1446a_knapsack.cpp)]
 
     
-#### 10. Análise amortizada: Two Pointers
 
-&nbsp;&nbsp;&nbsp;&nbsp; 10.1. [Problemas clássicos](general/two_pointers.cpp)
-
-&nbsp;&nbsp;&nbsp;&nbsp; 10.2. Upsolving 1: [Codeforces 1133C - Balanced Teams](https://codeforces.com/problemset/problem/1133/C) [[Solução](upsolving/1133c_balanced_teams.cpp)]
-
-&nbsp;&nbsp;&nbsp;&nbsp; 10.3. Upsolving 2: [Codeforces 279B - Books](https://codeforces.com/problemset/problem/279/B) [[Solução](upsolving/279b_books.cpp)]
-
-
-&nbsp;&nbsp;&nbsp;&nbsp; 10.3. Upsolving 2: [Codeforces 1343C - Alternating Subsequence](https://codeforces.com/problemset/problem/1343/C) [[Solução](upsolving/1343c_alternating_subsequence.cpp)]
 
 
 
