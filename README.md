@@ -149,7 +149,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.3. [Busca Binária na Resposta](general/buscabin_resposta.cpp)
     
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.4. Upsolving 1: [Codeforces 1538C - Pair of Numbers](https://codeforces.com/problemset/problem/1538/C) [[Solução](upsolving/1538c_pair_numbers.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.4. Upsolving 1: [Codeforces 1538C - Pair of Numbers](https://codeforces.com/problemset/problem/1538/C) [[Solução](upsolving/1538c_number_pairs.cpp)]
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.4. Upsolving 2: [Beecrowd 1472 - Triângulos](https://www.beecrowd.com.br/judge/pt/problems/view/1472) [[Solução](upsolving/uri1472_triangles.cpp)]
 
