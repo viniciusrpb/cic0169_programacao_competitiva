@@ -159,15 +159,20 @@ Prof. Dr. Vinícius R. P. Borges
 
 #### 9. Análise amortizada: Two Pointers
 
-&nbsp;&nbsp;&nbsp;&nbsp; 9.1. [Problemas clássicos](general/two_pointers.cpp)
+&nbsp;&nbsp;&nbsp;&nbsp; 9.1. [Problema 2SUM](general/two_sum.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; 9.2. Upsolving 1: [Codeforces 1133C - Balanced Teams](https://codeforces.com/problemset/problem/1133/C) [[Solução](upsolving/1133c_balanced_team.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 9.2. [Problema 3SUM](general/three_sum.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; 9.2. Upsolving 2: [Codeforces 1343C - Alternating Subsequence](https://codeforces.com/problemset/problem/1343/C) [[Solução](upsolving/1343c_alternating_subsequence.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 9.3. [Problema Max Len Substring](general/max_substring.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; 9.3. Upsolving 3: [Codeforces 279B - Books](https://codeforces.com/problemset/problem/279/B) [[Solução](upsolving/279b_books.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 9.4. Upsolving 1: [Codeforces 1133C - Balanced Teams](https://codeforces.com/problemset/problem/1133/C) [[Solução](upsolving/1133c_balanced_team.cpp)]
+
+&nbsp;&nbsp;&nbsp;&nbsp; 9.5. Upsolving 2: [Codeforces 1343C - Alternating Subsequence](https://codeforces.com/problemset/problem/1343/C) [[Solução](upsolving/1343c_alternating_subsequence.cpp)]
 
 <!--
+&nbsp;&nbsp;&nbsp;&nbsp; 9.3. Upsolving 3: [Codeforces 279B - Books](https://codeforces.com/problemset/problem/279/B) [[Solução](upsolving/279b_books.cpp)]
+
+
 #### 9. Algoritmos Gulosos
 
 &nbsp;&nbsp;&nbsp;&nbsp; 9.1. [Problema do Escalonamento de Tarefas](general/escalonamento_tarefas.cpp)
