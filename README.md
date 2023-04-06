@@ -22,9 +22,9 @@ Prof. Dr. Vinícius R. P. Borges
 
 #### 1. Fundamentos de Linguagem C/C++
 
-<!-- 
-&nbsp;&nbsp;&nbsp;&nbsp; 1.1. [Template C++ (aula 07/11/2022)](general/vinicius.cpp)
 
+&nbsp;&nbsp;&nbsp;&nbsp; 1.1. [Template C++ (aula 05/04/2023)](general/vinicius.cpp)
+<!-- 
 &nbsp;&nbsp;&nbsp;&nbsp; 1.2. Ordenação
 
 &nbsp;&nbsp;&nbsp;&nbsp; 1.3. Upsolving 1: [Codeforces 992A - Nastya and an Array](https://codeforces.com/contest/992/problem/A) [[Solução](upsolving/nastya_array.cpp)]
