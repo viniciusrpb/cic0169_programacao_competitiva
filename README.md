@@ -24,7 +24,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 1.1. [Template C++ (aula 05/04/2023)](general/vinicius.cpp), [[String: Classe STL](general/string_stl.cpp)], [[String Nativas C](general/string_nativo_c.cpp)], [[Vector](general/vectors_stl.cpp)], [[Vetor Nativo C](general/vetor_nativo_c.cpp)], [[Pair](general/pairs.cpp)], [[Tuple](general/tuples.cpp)]
  
-&nbsp;&nbsp;&nbsp;&nbsp; 1.2. [Ordenação, Lower Bound e Upper Bound](general/sort_bsearch.cpp)
+&nbsp;&nbsp;&nbsp;&nbsp; 1.2. [[Ordenação]](general/sort.cpp) [[Binary Seach: Lower Bound e Upper Bound]](general/search.cpp)
 
 &nbsp;&nbsp;&nbsp;&nbsp; 1.3. Upsolving 1: [Codeforces 992A - Nastya and an Array](https://codeforces.com/contest/992/problem/A) [[Solução](upsolving/nastya_array.cpp)]
 
