@@ -49,7 +49,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 4.1. [Fila](general/stl_queue.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; 4.2. [Pilha](general/stl_stack.cpp)  [Pilha de Máximo](general/stl_max_stack.cpp)
+&nbsp;&nbsp;&nbsp;&nbsp; 4.2. [Pilha](general/stl_stack.cpp)  [[Pilha de Máximo](general/stl_max_stack.cpp)]
  
 &nbsp;&nbsp;&nbsp;&nbsp; 4.3. [Fila de Prioridade](general/stl_priority_queue.cpp)
 
