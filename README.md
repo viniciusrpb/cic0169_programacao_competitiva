@@ -49,8 +49,8 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 4.1. [Fila](general/stl_queue.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; 4.2. [Pilha](general/stl_stack.cpp)
-
+&nbsp;&nbsp;&nbsp;&nbsp; 4.2. [Pilha](general/stl_stack.cpp)  [Pilha de Máximo](general/stl_max_stack.cpp)
+ 
 &nbsp;&nbsp;&nbsp;&nbsp; 4.3. [Fila de Prioridade](general/stl_priority_queue.cpp)
 
 &nbsp;&nbsp;&nbsp;&nbsp; 4.4. Upsolving: [Codeforces 343B - Alternating Current](https://codeforces.com/contest/343/problem/B) [[Solução](upsolving/343b_alternating_current.cpp)]
