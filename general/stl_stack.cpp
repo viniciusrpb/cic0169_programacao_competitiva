@@ -6,7 +6,7 @@
  * Tópico: Estruturas de Dados, biblioteca STL, Pilha 
  * Funcao desse programa: apresentar metodos da classe Stack
  * 
- * Compilar: g++ stl_stack.cpp -std=c++11 -o pilha
+ * Compilar: g++ stl_stack.cpp -std=c++17 -o pilha
  * Executar: ./pilha
  */
 
@@ -14,36 +14,38 @@
 
 using namespace std;
 
-int main()
-{
+int main(){
+    
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+
     stack<int> pilha;
-    
-    if(pilha.empty())
-        printf("Pilha estah vazia\n");
-    
-    /*push: empilha, insere o elemento no topo*/
-    pilha.push(5);
-    
-    if(!pilha.empty())
-        printf("Pilha nao estah vazia\n");
-    
-    printf("Elemento do topo: %d\n",pilha.top());
-    
-    for(int i = 0; i < 4; i++)
-    {
-        pilha.push(2*(i+1));
+
+    /* O(1): Empilhar, colocar novo elemento no topo da pilha */
+    pilha.push(6);
+    pilha.push(10);
+    pilha.push(3);
+    pilha.push(8);
+
+    /* O(1): pegar a quantidade de elementos da pilha e verificar se a pilha eh vazia */
+    if(pilha.empty()){
+        cout << "Pilha vazia\n";
     }
-    
-    printf("Elemento do topo: %d\n",pilha.top());
-    printf("Num de elementos na pilha: %d\n",(int) pilha.size());
-    
-    while(!pilha.empty())
-    {
-        printf("Elemento do topo: %d\n",pilha.top());
+    else{
+        cout << "Pilha contem " << pilha.size() << " elementos\n";
+    }
+
+    while(!pilha.empty()){
+        /* O(1): retornar o elemento que estah no topo da pilha */
+        int elemRemovido = pilha.top();
+
+        cout << elemRemovido << "\n";
+
+        /* O(1): desempilhar, remover o elemento do topo da pilha */
         pilha.pop();
     }
-    
-    printf("Elemento do topo: %d\n",pilha.top());
-    
+
     return 0;
+
 }
