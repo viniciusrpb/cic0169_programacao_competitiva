@@ -6,7 +6,7 @@
  * Tópico: Estruturas de Dados, biblioteca STL, Fila
  *    Funcao desse programa: apresentar metodos da classe Queue da STL
  * 
- * Compilar: g++ stl_queue.cpp -std=c++11 -o fila
+ * Compilar: g++ stl_queue.cpp -std=c++17 -o fila
  * Executar: ./fila
  */
 
@@ -14,41 +14,39 @@
 
 using namespace std;
 
-int main()
-{
-    int n;
+int main(){
+    ios::sync_qwith_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    
     queue<int> fila;
     
-    if(fila.empty())
-        printf("Fila estah vazia\n");
+    /* O(1) verifica se a fila esta vazia ou nao */
     
-    /* push: enfileirar o 6 : inserir 6 no final da fila*/
-    fila.push(6);
-    
-     if(!fila.empty())
-        printf("Fila nao estah vazia\n");
-    
-    scanf("%d",&n);
-    for(int i = 0; i < n; i++)
-    {
-        fila.push(i+1);
+    if(fila.empty()){
+        cout << "Fila vazia!\n";
     }
     
-    printf("Tamanho da fila: %d\n",(int) fila.size());
-    
-    printf("Primeiro da fila: %d\n",fila.front());
-    
-    /* pop: desenfileirar , remover o primeiro elemento da fila */
+    /* O(1) push: enfileirar => insercao no final da fila */
+    fila.push(5);
+    fila.push(6);
+    fila.push(1);
+    fila.push(2);
+
+    /* O(1) size: retorna a quantidade de elementos da fila */
+    cout << "Fila contem " << fila.size() << " elementos\n";
+
+    /* O(1) front: retorna o elemento do inicio da fila -- sem remove-lo */
+    int elemRemovido = fila.front();
+
+    /* O(1) pop: desenfileirar => remover o elemento do inicio da fila -- sem retorna-lo */
     fila.pop();
-    
-    printf("Primeiro da fila: %d\n",fila.front());
-    
-    for(int i = 0; i <= n; i++)
-    {
-        int elem = fila.front();
-        printf("O bom da vez: %d\n",elem);
+
+    /* O(n) : esvaziando completamente a fila */
+    while(!fila.empty()){ // while(fila.size())
+        int elemRemovido = fila.front();
+        cout << elemRemovido << "\n";
         fila.pop();
-        fila.push(elem);        
     }
     
     return 0;
