@@ -19,55 +19,45 @@
  */
 
 #include<bits/stdc++.h>
- 
+
 using namespace std;
- 
+
 int main(){
-    
-    int n,k;
- 
+
+    int n,k,c,s;
+
     scanf("%d %d",&n,&k);
-    
-    while(n or k){
-        
-        int ci,si,vagas,tempo;
+
+    while(n || k){
+
         stack<int> estacionamento;
-        bool ans = true;
-        
-        vagas = k;
-        
+        bool flag = true;
+
         for(int i = 0; i < n; i++){
-            
-            scanf("%d %d",&ci,&si);
-            
-            tempo = ci;
-            
-            while(!estacionamento.empty() and estacionamento.top() <= tempo){
+
+            scanf("%d %d",&c,&s);
+
+            while(!estacionamento.empty() and estacionamento.top() <= c){
                 estacionamento.pop();
-                vagas++;
             }
-            
-            if(vagas){
+
+            if(estacionamento.size() >= k){
+                flag = false;
+            }else{
                 if(estacionamento.empty()){
-                    estacionamento.push(si);
-                    vagas--;
+                    estacionamento.push(s);
                 }
                 else{
-                    if(estacionamento.top() > si){
-                        estacionamento.push(si);
-                        vagas--;
-                    }
-                    else{
-                        ans = false;
+                    if(estacionamento.top() > s){
+                        estacionamento.push(s);
+                    }else{
+                        flag = false;
                     }
                 }
             }
-            else{
-                ans = false;
-            }
         }
-        
-        if(!ans)
+
+        if(flag == false)
             printf("Nao\n");
         else
             printf("Sim\n");
