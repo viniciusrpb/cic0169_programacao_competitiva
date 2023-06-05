@@ -45,60 +45,60 @@ Prof. Dr. Vinícius R. P. Borges
 
 ### Módulo II: Estruturas de Dados
 
-#### 4. Estruturas de Dados Lineares
+#### 3. Estruturas de Dados Lineares
 
-&nbsp;&nbsp;&nbsp;&nbsp; 4.1. [Fila](general/stl_queue.cpp)
+&nbsp;&nbsp;&nbsp;&nbsp; 3.1. [Fila](general/stl_queue.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; 4.2. [Pilha](general/stl_stack.cpp)  [Extra: [Pilha de Máximos](general/stl_max_stack.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 3.2. [Pilha](general/stl_stack.cpp)  [Extra: [Pilha de Máximos](general/stl_max_stack.cpp)]
  
-&nbsp;&nbsp;&nbsp;&nbsp; 4.3. [Fila de Prioridade](general/stl_priority_queue.cpp)
+&nbsp;&nbsp;&nbsp;&nbsp; 3.3. [Fila de Prioridade](general/stl_priority_queue.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; 4.4. Upsolving: [Codeforces 343B - Alternating Current](https://codeforces.com/contest/343/problem/B) [[Solução](upsolving/343b_alternating_current.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 3.4. Upsolving: [Codeforces 343B - Alternating Current](https://codeforces.com/contest/343/problem/B) [[Solução](upsolving/343b_alternating_current.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 4.5. Upsolving: [Codeforces 920B - Tea Queue](https://codeforces.com/problemset/problem/920/B) [[Solução](upsolving/920b_tea_queue.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 3.5. Upsolving: [Codeforces 920B - Tea Queue](https://codeforces.com/problemset/problem/920/B) [[Solução](upsolving/920b_tea_queue.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 4.6. Upsolving: [Codeforces 1153A - Serval and Bus](https://codeforces.com/problemset/problem/1153/A) [[Solução](upsolving/1153a_serval_bus.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 3.6. Upsolving: [Codeforces 1153A - Serval and Bus](https://codeforces.com/problemset/problem/1153/A) [[Solução](upsolving/1153a_serval_bus.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 4.7. Upsolving: [Beecrowd 1523 - Estacionamento Linear](https://www.beecrowd.com.br/judge/pt/problems/view/1523) [[Solução](upsolving/beecrowd_1523.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 3.7. Upsolving: [Beecrowd 1523 - Estacionamento Linear](https://www.beecrowd.com.br/judge/pt/problems/view/1523) [[Solução](upsolving/beecrowd_1523.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 4.8. Upsolving: [Beecrowd 2065 - Supermarket Line](https://www.beecrowd.com.br/judge/pt/problems/view/2065) [[Solução](upsolving/beecrowd_2056.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 3.8. Upsolving: [Beecrowd 2065 - Supermarket Line](https://www.beecrowd.com.br/judge/pt/problems/view/2065) [[Solução](upsolving/beecrowd_2056.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 4.9. Upsolving [Codeforces 982B - Bus of Characters](https://codeforces.com/problemset/problem/982/B) *Priority Queue*
+&nbsp;&nbsp;&nbsp;&nbsp; 3.9. Upsolving [Codeforces 982B - Bus of Characters](https://codeforces.com/problemset/problem/982/B) *Priority Queue*
 
 
-#### 5. Estruturas de Dados Não-Lineares
+#### 4. Estruturas de Dados Não-Lineares
 
-&nbsp;&nbsp;&nbsp;&nbsp; 5.1. Sets
+&nbsp;&nbsp;&nbsp;&nbsp; 4.1. Sets
 
-&nbsp;&nbsp;&nbsp;&nbsp; 5.2. Map
+&nbsp;&nbsp;&nbsp;&nbsp; 4.2. Map
 
-&nbsp;&nbsp;&nbsp;&nbsp; 5.3. Upsolving: [Codeforces Good Bye 2020 - Bovine Dilemma](https://codeforces.com/contest/1466/problem/A) [[Solução](upsolving/1466a_bovine_dilemma.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 4.3. Upsolving: [Codeforces Good Bye 2020 - Bovine Dilemma](https://codeforces.com/contest/1466/problem/A) [[Solução](upsolving/1466a_bovine_dilemma.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 5.4. Upsolving: [Codeforces 1234D - Distinct Characters Queries](https://codeforces.com/contest/1234/problem/D) [[Solução](upsolving/1234d_distinct_characters_queries.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 4.4. Upsolving: [Codeforces 1234D - Distinct Characters Queries](https://codeforces.com/contest/1234/problem/D) [[Solução](upsolving/1234d_distinct_characters_queries.cpp)]
 
-#### 6. Soma de Prefixos e Codificação Delta
+#### 5. Soma de Prefixos e Codificação Delta
 
-&nbsp;&nbsp;&nbsp;&nbsp; 6.1. Soma de Prefixos (*Prefix sum*): [Exemplo básico](general/prefix_sum.cpp)
+&nbsp;&nbsp;&nbsp;&nbsp; 5.1. Soma de Prefixos (*Prefix sum*): [Exemplo básico](general/prefix_sum.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; 6.2. Codificação Delta (*Delta encoding*, *Difference arrays*): [Exemplo básico](general/delta_encoding.cpp)
+&nbsp;&nbsp;&nbsp;&nbsp; 5.2. Codificação Delta (*Delta encoding*, *Difference arrays*): [Exemplo básico](general/delta_encoding.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; 6.3. Upsolving 1: [Codeforces 816B - Karen and Coffee](https://codeforces.com/problemset/problem/816/B) [[Solução](upsolving/816b_karen_and_coffee.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 5.3. Upsolving 1: [Codeforces 816B - Karen and Coffee](https://codeforces.com/problemset/problem/816/B) [[Solução](upsolving/816b_karen_and_coffee.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 6.4. Upsolving 2: [Codeforces 295A - Greg and Array](https://codeforces.com/problemset/problem/295/A/) [[Solução](upsolving/greg_array.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 5.4. Upsolving 2: [Codeforces 295A - Greg and Array](https://codeforces.com/problemset/problem/295/A/) [[Solução](upsolving/greg_array.cpp)]
 
-#### 7. Operadores Bitwise e Bitmasks
+#### 6. Operadores Bitwise e Bitmasks
 
-&nbsp;&nbsp;&nbsp;&nbsp; 7.1. [Operadores Bitwise](general/op_bitwise.cpp)
+&nbsp;&nbsp;&nbsp;&nbsp; 6.1. [Operadores Bitwise](general/op_bitwise.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; 7.2. [Bitmasks](general/bitmask.cpp)
+&nbsp;&nbsp;&nbsp;&nbsp; 6.2. [Bitmasks](general/bitmask.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; 7.3. Upsolving: [Codeforces 1421A - XORwice](https://codeforces.com/problemset/problem/1421/A ) [[Solução](upsolving/1421a_xorwice.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 6.3. Upsolving: [Codeforces 1421A - XORwice](https://codeforces.com/problemset/problem/1421/A ) [[Solução](upsolving/1421a_xorwice.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 7.4. Upsolving: [Codeforces 1698A - XOR Mixup](https://codeforces.com/problemset/problem/1698/A) [[Solução](upsolving/1698a_xor_mixup.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 6.4. Upsolving: [Codeforces 1698A - XOR Mixup](https://codeforces.com/problemset/problem/1698/A) [[Solução](upsolving/1698a_xor_mixup.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 7.5. Upsolving: [Codeforces 1949A - ABC String](https://codeforces.com/problemset/problem/1494/A) [[Solução](upsolving/1949a_abc_string.cpp)] 
+&nbsp;&nbsp;&nbsp;&nbsp; 6.5. Upsolving: [Codeforces 1949A - ABC String](https://codeforces.com/problemset/problem/1494/A) [[Solução](upsolving/1949a_abc_string.cpp)] 
 
-<!--
+
 ### Módulo III: Paradigmas de Resolução de Problemas
 
 #### 7. Busca Completa
@@ -115,7 +115,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.1.5. Upsolving 7: [Codeforces 550B - Preparing Olympiad](https://codeforces.com/contest/550/problem/B) [[Solução](upsolving/550b_preparing_olympiad.cpp)]
 
-
+<!--
 
 &nbsp;&nbsp;&nbsp;&nbsp; 7.1. Busca em Largura
 
