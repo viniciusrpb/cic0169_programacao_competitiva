@@ -115,8 +115,6 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.1.5. Upsolving 7: [Codeforces 550B - Preparing Olympiad](https://codeforces.com/contest/550/problem/B) [[Solução](upsolving/550b_preparing_olympiad.cpp)]
 
-<!--
-
 &nbsp;&nbsp;&nbsp;&nbsp; 7.1. Busca em Largura
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.1.1. Upsolving 1: [Beecrowd 1910 - Ajude Clotilde](https://www.beecrowd.com.br/judge/en/problems/view/1910) [[Solução](upsolving/uri1910_ajude_clotilde.cpp)]
@@ -125,7 +123,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.1.3. Upsolving 3: [Beecrowd 1907 - Colouring Game Scenarios](https://www.beecrowd.com.br/judge/en/problems/view/1907) [[Solução](upsolving/beecrowd_1907.cpp)]
 
-
+<!--
 #### 8. Divisão-e-Conquista
 
 &nbsp;&nbsp;&nbsp;&nbsp; 8.1. Merge Sort
