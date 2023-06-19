@@ -123,7 +123,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.1.3. Upsolving 3: [Beecrowd 1907 - Colouring Game Scenarios](https://www.beecrowd.com.br/judge/en/problems/view/1907) [[Solução](upsolving/beecrowd_1907.cpp)]
 
-<!--
+
 #### 8. Divisão-e-Conquista
 
 &nbsp;&nbsp;&nbsp;&nbsp; 8.1. Merge Sort
@@ -157,6 +157,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.6. Upsolving 4: [Codeforces 760B - Frodo and Pillows](https://codeforces.com/problemset/problem/760/B) [[Solução](upsolving/760b_frodo_pillows.cpp)]
 
+<!--
 #### 9. Análise amortizada: Two Pointers
 
 &nbsp;&nbsp;&nbsp;&nbsp; 9.1. [Problema 2SUM](general/two_sum.cpp)
