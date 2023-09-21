@@ -25,7 +25,7 @@ Prof. Dr. Vinícius R. P. Borges
 &nbsp;&nbsp;&nbsp;&nbsp; 1.1. [Template C++ (aula 05/04/2023)](general/vinicius.cpp), [[String: Classe STL](general/string_stl.cpp)], [[String Nativas C](general/string_nativo_c.cpp)], [[Vector](general/vectors_stl.cpp)], [[Vetor Nativo C](general/vetor_nativo_c.cpp)], [[Pair](general/pairs.cpp)], [[Tuple](general/tuples.cpp)]
  
 &nbsp;&nbsp;&nbsp;&nbsp; 1.2. Ordenação e Busca Binária: [[sort](general/sort.cpp)] [[Lower Bound e Upper Bound](general/search.cpp)]
-<!--
+
 &nbsp;&nbsp;&nbsp;&nbsp; 1.3. Upsolving 1: [Codeforces 992A - Nastya and an Array](https://codeforces.com/contest/992/problem/A) [[Solução](upsolving/nastya_array.cpp)]
 
 &nbsp;&nbsp;&nbsp;&nbsp; 1.4. Upsolving 2: [Codeforces 706B - Interesting drink](https://codeforces.com/problemset/problem/706/B) [[Solução](upsolving/706b_interesting_drink.cpp)]
@@ -41,7 +41,7 @@ Prof. Dr. Vinícius R. P. Borges
 &nbsp;&nbsp;&nbsp;&nbsp; 2.1. Ponteiros e Iterators
 
 &nbsp;&nbsp;&nbsp;&nbsp; 2.2. Alocação Dinâmica de Memória (malloc)
-
+<!--
 
 ### Módulo II: Estruturas de Dados
 
