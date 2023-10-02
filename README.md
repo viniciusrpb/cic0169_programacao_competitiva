@@ -41,7 +41,7 @@ Prof. Dr. Vinícius R. P. Borges
 &nbsp;&nbsp;&nbsp;&nbsp; 2.1. Ponteiros e Iterators
 
 &nbsp;&nbsp;&nbsp;&nbsp; 2.2. Alocação Dinâmica de Memória (malloc)
-<!--
+
 
 ### Módulo II: Estruturas de Dados
 
@@ -65,7 +65,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 3.9. Upsolving [Codeforces 982B - Bus of Characters](https://codeforces.com/problemset/problem/982/B) *Priority Queue*
 
-
+<!--
 #### 4. Estruturas de Dados Não-Lineares
 
 &nbsp;&nbsp;&nbsp;&nbsp; 4.1. Sets
