@@ -63,7 +63,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 3.8. Upsolving: [Beecrowd 2065 - Supermarket Line](https://www.beecrowd.com.br/judge/pt/problems/view/2065) [[Solução](upsolving/beecrowd_2056.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 3.9. Upsolving [Codeforces 982B - Bus of Characters](https://codeforces.com/problemset/problem/982/B) *Priority Queue*
+&nbsp;&nbsp;&nbsp;&nbsp; 3.9. Upsolving [Codeforces 982B - Bus of Characters](https://codeforces.com/problemset/problem/982/B) [[Solução](upsolving/982b_bus_characters.cpp)]
 
 <!--
 #### 4. Estruturas de Dados Não-Lineares
