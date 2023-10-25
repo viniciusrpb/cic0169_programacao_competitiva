@@ -72,9 +72,9 @@ Prof. Dr. Vinícius R. P. Borges
 
 #### 4. Estruturas de Dados Não-Lineares
 
-&nbsp;&nbsp;&nbsp;&nbsp; 4.1. [Sets](general/sets.cpp)
+&nbsp;&nbsp;&nbsp;&nbsp; 4.1. [Sets](general/stl_set.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; 4.2. [Map](general/map.cpp)
+&nbsp;&nbsp;&nbsp;&nbsp; 4.2. [Map](general/stl_map.cpp)
 
 &nbsp;&nbsp;&nbsp;&nbsp; 4.3. Upsolving: [Codeforces Good Bye 2020 - Bovine Dilemma](https://codeforces.com/contest/1466/problem/A) [[Solução](upsolving/1466a_bovine_dilemma.cpp)]
 
