@@ -57,17 +57,17 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 3.5. [Fila de Prioridade por Pairs - Custom Comparator](general/stl_pairs_priority_queue.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; 3.4. Upsolving: [Codeforces 343B - Alternating Current](https://codeforces.com/contest/343/problem/B) [[Solução](upsolving/343b_alternating_current.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 3.6. Upsolving: [Codeforces 343B - Alternating Current](https://codeforces.com/contest/343/problem/B) [[Solução](upsolving/343b_alternating_current.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 3.5. Upsolving: [Codeforces 920B - Tea Queue](https://codeforces.com/problemset/problem/920/B) [[Solução](upsolving/920b_tea_queue.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 3.7. Upsolving: [Codeforces 920B - Tea Queue](https://codeforces.com/problemset/problem/920/B) [[Solução](upsolving/920b_tea_queue.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 3.6. Upsolving: [Codeforces 1153A - Serval and Bus](https://codeforces.com/problemset/problem/1153/A) [[Solução](upsolving/1153a_serval_bus.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 3.8. Upsolving: [Codeforces 1153A - Serval and Bus](https://codeforces.com/problemset/problem/1153/A) [[Solução](upsolving/1153a_serval_bus.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 3.7. Upsolving: [Beecrowd 1523 - Estacionamento Linear](https://www.beecrowd.com.br/judge/pt/problems/view/1523) [[Solução](upsolving/beecrowd_1523.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 3.9. Upsolving: [Beecrowd 1523 - Estacionamento Linear](https://www.beecrowd.com.br/judge/pt/problems/view/1523) [[Solução](upsolving/beecrowd_1523.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 3.8. Upsolving: [Beecrowd 2065 - Supermarket Line](https://www.beecrowd.com.br/judge/pt/problems/view/2065) [[Solução](upsolving/beecrowd_2056.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 3.10. Upsolving: [Beecrowd 2065 - Supermarket Line](https://www.beecrowd.com.br/judge/pt/problems/view/2065) [[Solução](upsolving/beecrowd_2056.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 3.9. Upsolving [Codeforces 982B - Bus of Characters](https://codeforces.com/problemset/problem/982/B) [[Solução](upsolving/cf982b.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 3.11. Upsolving [Codeforces 982B - Bus of Characters](https://codeforces.com/problemset/problem/982/B) [[Solução](upsolving/cf982b.cpp)]
 
 
 #### 4. Estruturas de Dados Não-Lineares
