@@ -55,7 +55,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 3.4. [Fila de Prioridade Máxima](general/stl_max_priority_queue.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; 3.5. [Fila de Prioridade por Pair - Custom Comparator](general/stl_pairs_priority_queue.cpp)
+&nbsp;&nbsp;&nbsp;&nbsp; 3.5. [Fila de Prioridade por Pair - Custom Comparator](general/stl_pair_priority_queue.cpp)
 
 &nbsp;&nbsp;&nbsp;&nbsp; 3.6. Upsolving: [Codeforces 343B - Alternating Current](https://codeforces.com/contest/343/problem/B) [[Solução](upsolving/343b_alternating_current.cpp)]
 
