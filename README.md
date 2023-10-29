@@ -80,7 +80,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 4.4. Upsolving: [Codeforces 1234D - Distinct Characters Queries](https://codeforces.com/contest/1234/problem/D) [[Solução](upsolving/1234d_distinct_characters_queries.cpp)]
 
-<!--
+
 #### 5. Soma de Prefixos e Codificação Delta
 
 &nbsp;&nbsp;&nbsp;&nbsp; 5.1. Soma de Prefixos (*Prefix sum*): [Exemplo básico](general/prefix_sum.cpp)
@@ -90,6 +90,8 @@ Prof. Dr. Vinícius R. P. Borges
 &nbsp;&nbsp;&nbsp;&nbsp; 5.3. Upsolving 1: [Codeforces 816B - Karen and Coffee](https://codeforces.com/problemset/problem/816/B) [[Solução](upsolving/816b_karen_and_coffee.cpp)]
 
 &nbsp;&nbsp;&nbsp;&nbsp; 5.4. Upsolving 2: [Codeforces 295A - Greg and Array](https://codeforces.com/problemset/problem/295/A/) [[Solução](upsolving/greg_array.cpp)]
+
+<!--
 
 #### 6. Operadores Bitwise e Bitmasks
 
