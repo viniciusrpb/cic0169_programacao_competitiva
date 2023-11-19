@@ -107,7 +107,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 6.6. Upsolving: [Codeforces 1949A - ABC String](https://codeforces.com/problemset/problem/1494/A) [[Solução](upsolving/1949a_abc_string.cpp)] 
 
-<!--
+
 ### Módulo III: Paradigmas de Resolução de Problemas
 
 #### 7. Busca Completa
@@ -132,7 +132,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.1.3. Upsolving 3: [Beecrowd 1907 - Colouring Game Scenarios](https://www.beecrowd.com.br/judge/en/problems/view/1907) [[Solução](upsolving/beecrowd_1907.cpp)]
 
-
+<!--
 #### 8. Divisão-e-Conquista
 
 &nbsp;&nbsp;&nbsp;&nbsp; 8.1. Merge Sort
