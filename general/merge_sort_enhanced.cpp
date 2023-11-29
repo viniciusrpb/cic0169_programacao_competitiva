@@ -24,14 +24,14 @@ int merge(int v[], int temp[], int inicio, int meio, int fim)
     
     swaps = 0;
     
-    while ((i <= meio - 1) && (j <= fim))
+    while (i <= meio && j <= fim)
     {
         if (v[i] <= v[j])
             temp[k++] = v[i++];
         else
         {
             temp[k++] = v[j++];
-            swaps = swaps + (meio-i);
+            swaps = swaps + (meio-i+1);
         }
     }
  
