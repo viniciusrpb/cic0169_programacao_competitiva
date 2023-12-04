@@ -21,47 +21,49 @@ using namespace std;
 typedef long long ll;
 
 int main(){
+    int n,S,k,l,r,mid,aux;
+    ll T,total_custo;
+    vector<ll> a;
 
-    int n,l,r,mid,k,aux;
-    ll total_cost,s,t;
-    vector<ll> base_cost;
-
-    scanf("%d %lld",&n,&s);
+    scanf("%d %d",&n,&S);
 
     for(int i = 0; i < n; i++){
         scanf("%d",&aux);
-        base_cost.push_back(aux);
+        a.push_back(aux);
     }
 
     l = 1;
     r = n;
     k = 0;
-    t = 0;
+    T = 0;
 
     while(l<=r){
-        mid = (l+r)/2; // chutar o valor de k
-        vector<ll> final_cost;
+        mid = (l+r)/2; // chute do valor k
 
+        vector<ll> custo;
         for(int i = 0; i < n; i++){
-            final_cost.push_back(base_cost[i] + (ll) (i+1)*(ll) mid);
+            custo.push_back(a[i]+((ll) (i+1)* (ll) mid));
         }
 
-        sort(final_cost.begin(),final_cost.end());
-
-        total_cost = 0; // garante-se o custo minimo
-
+        sort(custo.begin(),custo.end());
+        // ordenado: consigo maximizar a quantidade
+        // de itens comprados
+        total_custo = 0;
         for(int i = 0; i < mid; i++){
-            total_cost+=final_cost[i];
+            total_custo+=custo[i];
         }
 
-        if(total_cost <= s){
+        if(total_custo <= S){ // mid eh um bom chute?
+            // total_custo eh uma resposta valida
             k = mid;
-            t = total_cost;
-            l = mid+1;
+            T = total_custo;
+            l = mid+1; // tentar encontrar uma resposta melhor, aumentar k
         }else
-            r = mid-1;
+            r = mid-1; // diminuir o chute
     }
-
-    printf("%d %lld\n",k,t);
+    
+    printf("%d %lld\n",k,T);
+    
     return 0;
 }
+
