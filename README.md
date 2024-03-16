@@ -34,7 +34,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 1.6. Upsolving 4: [Codeforces 50A - Domino Pilling](https://codeforces.com/problemset/problem/50/A) [[Solução](upsolving/50a_domino_piling.cpp)]
 
-
+<!--<!--
 
 #### 2. Ponteiros e Alocação Dinâmica de Memória
 
@@ -180,7 +180,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 9.5. Upsolving 2: [Codeforces 1343C - Alternating Subsequence](https://codeforces.com/problemset/problem/1343/C) [[Solução](upsolving/1343c_alternating_subsequence.cpp)]
 
-<!--<!--
+
 &nbsp;&nbsp;&nbsp;&nbsp; 9.3. Upsolving 3: [Codeforces 279B - Books](https://codeforces.com/problemset/problem/279/B) [[Solução](upsolving/279b_books.cpp)]
 
 
