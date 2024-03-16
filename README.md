@@ -143,11 +143,11 @@ Prof. Dr. Vinícius R. P. Borges
     
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.4. Upsolving 2: [OBI 2016 - Arco e Flecha](https://olimpiada.ic.unicamp.br/pratique/p1/2016/f2/arco/) [[Solução](upsolving/obi2016_arco_flecha.cpp)]
 
-<!--&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.5. Upsolving 3: [1490D - Permutation Transformation](https://codeforces.com/problemset/problem/1490/D) [[Solução](upsolving/1490d_permutation_transformation.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.5. Upsolving 3: [1490D - Permutation Transformation](https://codeforces.com/problemset/problem/1490/D) [[Solução](upsolving/1490d_permutation_transformation.cpp)]
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.5. Upsolving 3: [1461D - Divide and Summarize](https://codeforces.com/contest/1461/problem/D) [[Solução](upsolving/1461d_divide_summarize.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.3. Upsolving 1: [Beecrowd 1088 - Bolhas e Baldes](https://www.beecrowd.com.br/judge/pt/problems/view/1088) [[Solução](upsolving/uri1088_bubbles_buckets.cpp)]-->
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.3. Upsolving 1: [Beecrowd 1088 - Bolhas e Baldes](https://www.beecrowd.com.br/judge/pt/problems/view/1088) [[Solução](upsolving/uri1088_bubbles_buckets.cpp)]
 
 
 &nbsp;&nbsp;&nbsp;&nbsp; 8.1. Busca Binária
@@ -161,7 +161,7 @@ Prof. Dr. Vinícius R. P. Borges
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.4. Upsolving 1: [Codeforces 812C - Sagheer and Nubian Market](https://mirror.codeforces.com/contest/812/problem/C) [[Solução](upsolving/812c_sagheer_nubian_market.cpp)]
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.5. Upsolving 2: [Codeforces 760B - Frodo and Pillows](https://codeforces.com/problemset/problem/760/B) [[Solução](upsolving/760b_frodo_pillows.cpp)]
-<!--
+
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.5. Upsolving 3: [Codeforces 1538C - Pair of Numbers](https://codeforces.com/problemset/problem/1538/C) [[Solução](upsolving/1538c_number_pairs.cpp)]
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.4. Upsolving 4: [Beecrowd 1472 - Triângulos](https://www.beecrowd.com.br/judge/pt/problems/view/1472) [[Solução](upsolving/uri1472_triangles.cpp)]
