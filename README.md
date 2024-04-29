@@ -34,7 +34,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 1.6. Upsolving 4: [Codeforces 50A - Domino Pilling](https://codeforces.com/problemset/problem/50/A) [[Solução](upsolving/50a_domino_piling.cpp)]
 
-<!--<!--
+
 
 #### 2. Ponteiros e Alocação Dinâmica de Memória
 
@@ -69,7 +69,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 3.11. Upsolving [Codeforces 982B - Bus of Characters](https://codeforces.com/problemset/problem/982/B) [[Solução](upsolving/cf982b.cpp)]
 
-
+<!--<!--
 #### 4. Estruturas de Dados Não-Lineares
 
 &nbsp;&nbsp;&nbsp;&nbsp; 4.1. [Sets](general/stl_set.cpp)
