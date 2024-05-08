@@ -78,7 +78,9 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 4.3. Upsolving: [Codeforces Good Bye 2020 - Bovine Dilemma](https://codeforces.com/contest/1466/problem/A) [[Solução](upsolving/1466a_bovine_dilemma.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 4.4. Upsolving: [Codeforces 1234D - Distinct Characters Queries](https://codeforces.com/contest/1234/problem/D) [[Solução](upsolving/1234d_distinct_characters_queries.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 4.4. Upsolving: [Codeforces 1703D - Double Strings](https://codeforces.com/contest/1703/problem/D) [[Solução](upsolving/1703d_double_strings.cpp)]
+
+&nbsp;&nbsp;&nbsp;&nbsp; 4.5. Upsolving: [Codeforces 1234D - Distinct Characters Queries](https://codeforces.com/contest/1234/problem/D) [[Solução](upsolving/1234d_distinct_characters_queries.cpp)]
 
 <!--<!--
 #### 5. Soma de Prefixos e Codificação Delta
