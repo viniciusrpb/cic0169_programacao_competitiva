@@ -69,7 +69,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 3.11. Upsolving [Codeforces 982B - Bus of Characters](https://codeforces.com/problemset/problem/982/B) [[Solução](upsolving/cf982b.cpp)]
 
-<!--<!--
+
 #### 4. Estruturas de Dados Não-Lineares
 
 &nbsp;&nbsp;&nbsp;&nbsp; 4.1. [Sets](general/stl_set.cpp)
@@ -80,7 +80,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 4.4. Upsolving: [Codeforces 1234D - Distinct Characters Queries](https://codeforces.com/contest/1234/problem/D) [[Solução](upsolving/1234d_distinct_characters_queries.cpp)]
 
-
+<!--<!--
 #### 5. Soma de Prefixos e Codificação Delta
 
 &nbsp;&nbsp;&nbsp;&nbsp; 5.1. Soma de Prefixos (*Prefix sum*): [Exemplo básico](general/prefix_sum.cpp)
