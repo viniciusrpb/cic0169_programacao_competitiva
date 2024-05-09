@@ -4,86 +4,47 @@ using namespace std;
 
 typedef tuple<int,int,int> tii;
 
-typedef pair<int,int> pii;
-
-class cmpi{
-    public:
-        // a eh o proximo, b eh o atual
-        bool operator()(tii&a , tii&b){
-            int x,y,z,r,s,t;
-            tie(x,y,z) = a;
-            tie(r,s,t) = b;
-
-            if(x==r)
-                return y > s;
-            else
-                return x < r;
-        }
-};
-
-class cmpe{
-    public:
-        bool operator()(tii&a , tii&b){
-            int x,y,z,r,s,t;
-            tie(x,y,z) = a;
-            tie(r,s,t) = b;
-
-            if(x==r)
-                return y < s;
-            else
-                return x > r;
-        }
-};
-
-bool comp(pii&a, pii&b){
-    if(a.first == b.first)
-        return a.second < b.second;
-    return a.first > b.first;
+struct maior_tii{
+    bool operator()(tii a, tii b){
+        if(get<0>(a) == get<0>(b))
+            return get<1>(a) > get<1>(b);
+        else
+            return get<0>(a) > get<0>(b);
+    }
 };
 
 int main(){
-    int n,num,w,aux,row;
-    char passengers[400001];
-    vector<pii> v = {{4,9},{5,2},{4,6}};
-    priority_queue<tii,vector<tii>,cmpi> introvertido;
-    priority_queue<tii,vector<tii>,cmpe> extrovertido;
+    
+    ios::sync_with_stdio(false);
+    cin.tie(0);
 
-    sort(v.begin(),v.end(),comp);
+    int n,ocupados,id,w;
+    string passageiros;
+    // fila de prioridade minima
+    priority_queue<tii,vector<tii>,maior_tii> introvertidos;
+    priority_queue<tii> extrovertidos;
 
-    for(int i = 0; i < v.size();i++){
-        printf("(%d,%d)\n",v[i].first,v[i].second);
+    cin >> n;
+
+    for(int i = 0; i < n; i++){ // O(n*(logn + logn))
+        cin >> w;
+        introvertidos.push({0,w,i+1});
+        extrovertidos.push({0,w,i+1});
     }
 
-    scanf("%d",&n);
+    cin >> passageiros;
 
-    vector<int> ans;
-
-    for(int i = 0; i < n; i++){
-        scanf("%d",&aux);
-        introvertido.push({2,aux,i+1});
-        extrovertido.push({2,aux,i+1});
-    }
-
-    getchar();
-    scanf("%s",passengers);
-
-    for(int i = 0; i < 2*n; i++){
-        if(passengers[i]=='0'){
-            tie(num,w,row) = introvertido.top();
-            printf("int: %d %d %d\n",num,w,row);
-            introvertido.pop();
+    for(int i = 0; i < 2*n; i++){ // O(nlogn) + O(n2logn)
+        if(passageiros[i] == '0'){ // fila de passageiros
+            tie(ocupados,w,id) = introvertidos.top();
+            introvertidos.pop();
         }else{
-            tie(num,w,row) = extrovertido.top();
-            printf("ext: %d %d %d\n",num,w,row);
-            extrovertido.pop();
+            tie(ocupados,w,id) = extrovertidos.top();
+            extrovertidos.pop();
         }
-        printf("%d ",row);
-        if(num ==2){
-            introvertido.push({num-1,w,row});
-            extrovertido.push({num-1,w,row});
-        }
+        cout << id << " ";
     }
-    printf("\n");
+    cout << "\n";
 
     return 0;
 }
