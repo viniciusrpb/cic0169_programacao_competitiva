@@ -89,9 +89,11 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 5.2. Codificação Delta (*Delta encoding*, *Difference arrays*): [Exemplo básico](general/delta_encoding.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; 5.3. Upsolving 1: [Codeforces 816B - Karen and Coffee](https://codeforces.com/problemset/problem/816/B) [[Solução](upsolving/816b_karen_and_coffee.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 5.4. Upsolving 1: [CSES1646 - Static Range Sum Queries](https://cses.fi/problemset/task/1646) [[Solução](upsolving/cses1646_srsq.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 5.4. Upsolving 2: [Codeforces 295A - Greg and Array](https://codeforces.com/problemset/problem/295/A/) [[Solução](upsolving/greg_array.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 5.4. Upsolving 2: [Codeforces 816B - Karen and Coffee](https://codeforces.com/problemset/problem/816/B) [[Solução](upsolving/816b_karen_and_coffee.cpp)]
+
+&nbsp;&nbsp;&nbsp;&nbsp; 5.5. Upsolving 3: [Codeforces 295A - Greg and Array](https://codeforces.com/problemset/problem/295/A/) [[Solução](upsolving/greg_array.cpp)]
 
 
 <!--
