@@ -107,9 +107,11 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 6.4. Upsolving: [Codeforces 1698A - XOR Mixup](https://codeforces.com/problemset/problem/1698/A) [[Solução](upsolving/1698a_xor_mixup.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 6.5. Upsolving: [Codeforces 579A - Raising Bacteria](https://codeforces.com/problemset/problem/579/A) [[Solução](upsolving/579a_raising_bacteria.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 6.5. Upsolving: [Codeforces 1567B - MEXor Mixup](https://codeforces.com/problemset/problem/1567/B) [[Solução](upsolving/1567b_mexor_mixup.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 6.6. Upsolving: [Codeforces 1949A - ABC String](https://codeforces.com/problemset/problem/1494/A) [[Solução](upsolving/1949a_abc_string.cpp)] 
+&nbsp;&nbsp;&nbsp;&nbsp; 6.6. Upsolving: [Codeforces 579A - Raising Bacteria](https://codeforces.com/problemset/problem/579/A) [[Solução](upsolving/579a_raising_bacteria.cpp)]
+
+&nbsp;&nbsp;&nbsp;&nbsp; 6.7. Upsolving: [Codeforces 1949A - ABC String](https://codeforces.com/problemset/problem/1494/A) [[Solução](upsolving/1949a_abc_string.cpp)] 
 
 <!--
 ### Módulo III: Paradigmas de Resolução de Problemas
