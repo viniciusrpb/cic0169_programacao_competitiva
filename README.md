@@ -109,9 +109,11 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 6.5. Upsolving: [Codeforces 1567B - MEXor Mixup](https://codeforces.com/problemset/problem/1567/B) [[Solução](upsolving/1567b_mexor_mixup.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 6.6. Upsolving: [Codeforces 579A - Raising Bacteria](https://codeforces.com/problemset/problem/579/A) [[Solução](upsolving/579a_raising_bacteria.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; 6.6. Upsolving: [CodeTON Round 6B - Friendly Arrays](https://codeforces.com/contest/1870/problem/B) [[Solução](upsolving/ton6b_friendly_arrays.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 6.7. Upsolving: [Codeforces 1949A - ABC String](https://codeforces.com/problemset/problem/1494/A) [[Solução](upsolving/1949a_abc_string.cpp)] 
+&nbsp;&nbsp;&nbsp;&nbsp; 6.7. Upsolving: [Codeforces 579A - Raising Bacteria](https://codeforces.com/problemset/problem/579/A) [[Solução](upsolving/579a_raising_bacteria.cpp)]
+
+&nbsp;&nbsp;&nbsp;&nbsp; 6.8. Upsolving: [Codeforces 1949A - ABC String](https://codeforces.com/problemset/problem/1494/A) [[Solução](upsolving/1949a_abc_string.cpp)] 
 
 <!--
 ### Módulo III: Paradigmas de Resolução de Problemas
