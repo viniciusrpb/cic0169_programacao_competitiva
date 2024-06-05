@@ -49,7 +49,9 @@ Pronto.
 
 Pegue o pacote .zip do problema no formato do Polygon e digite:
 
+```
 .local/bin/p2d --code A --color "#FF0000" -o . polygon_problem.zip
+```
 
 Vai ser criado no mesmo local, um arquivo chamado A.zip. Lembre-se de alterar o nome desse arquivo (flag ```--code```) e a cor do balão associado ao problema (flag ```--color```).
 
