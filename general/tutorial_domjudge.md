@@ -86,9 +86,16 @@ docker exec -it domserver cat /opt/domjudge/domserver/etc/restapi.secret
 Ativar o judgehost, substituindo ```xxxxxxxxxx``` pelo password do judge host.
 
 ```
-docker run -d -it --privileged -v /sys/fs/cgroup:/sys/fs/cgroup:rw --name judgehost-0 --link domserver:domserver --hostname judgedaemon-0 -e JUDGEDAEMON_PASSWORD=xxxxxxxxxx -e DAEMON_ID=0 domjudge/judgehost:latest 
+docker run -d -it --privileged -v /sys/fs/cgroup:/sys/fs/cgroup:rw --name judgehost-0 --link domserver:domserver --hostname judgedaemon-0 -e JUDGEDAEMON_PASSWORD=xxxxxxxxxx -e DAEMON_ID=0 domjudge/judgehost:latest
 ```
 
+Finalmente, redirecione o fluxo de dados da porta 12345 para a porta 3000: 
+
+```
+sudo iptables -t nat -A PREROUTING -p tcp --dport 3000 -j REDIRECT --to-port 12345
+```
+
+Agora acesse http://164.41.168.24:3000
 
 Na tela de administrador do DOMJudge, procure por "Users"
 
