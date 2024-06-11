@@ -57,7 +57,38 @@ Vai ser criado no mesmo local, um arquivo chamado A.zip. Lembre-se de alterar o 
 
 Repita esse processo para os demais problemas do contest.
 
-# Parte 4:
+# Parte 4: Ligar o DOMJudge
+
+Ativar o container do banco de dados
+
+```
+docker run -d -it --name dj-mariadb -e MYSQL_ROOT_PASSWORD=rootpw -e MYSQL_USER=domjudge -e MYSQL_PASSWORD=djpw -e MYSQL_DATABASE=domjudge -p 13306:3306 mariadb --max-connections=1000
+```
+
+Ativar o judgeserver
+
+```
+docker run -d --link dj-mariadb:mariadb -it -e MYSQL_HOST=mariadb -e MYSQL_USER=domjudge -e MYSQL_DATABASE=domjudge -e MYSQL_PASSWORD=djpw -e MYSQL_ROOT_PASSWORD=rootpw -p 12345:80 --name domserver domjudge/domserver:latest
+```
+
+Pegar a senhas do judge admin:
+
+```
+docker exec -it domserver cat /opt/domjudge/domserver/etc/initial_admin_password.secret
+```
+
+Pegar a senhas do judge host:
+
+```
+docker exec -it domserver cat /opt/domjudge/domserver/etc/restapi.secret
+```
+
+Ativar o judgehost, substituindo ```xxxxxxxxxx``` pelo password do judge host.
+
+```
+docker run -d -it --privileged -v /sys/fs/cgroup:/sys/fs/cgroup:rw --name judgehost-0 --link domserver:domserver --hostname judgedaemon-0 -e JUDGEDAEMON_PASSWORD=xxxxxxxxxx -e DAEMON_ID=0 domjudge/judgehost:latest 
+```
+
 
 Na tela de administrador do DOMJudge, procure por "Users"
 
