@@ -57,7 +57,15 @@ Vai ser criado no mesmo local, um arquivo chamado A.zip. Lembre-se de alterar o 
 
 Repita esse processo para os demais problemas do contest.
 
-# Parte 4: Ligar o DOMJudge
+# Parte 4: Limpe o Docker
+
+Remova todos os containers finalizados da memória:
+
+```
+docker container prune
+```
+
+# Parte 5: Ligar o DOMJudge
 
 Ativar o container do banco de dados
 
