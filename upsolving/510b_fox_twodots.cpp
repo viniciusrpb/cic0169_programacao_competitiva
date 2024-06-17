@@ -22,12 +22,9 @@ bool visited[52][52];
 bool valid;
 int n,m;
 
-void dfs(int i, int j, int x, int y, char cor)
-{
-    if(i < 0 or j < 0 or i >= n or j >= m)
-        return ;
+void dfs(int i, int j, int x, int y, char cor){
 
-    if(mat[i][j] != cor)
+    if(i < 0 or j < 0 or i >= n or j >= m)
         return ;
 
     if(visited[i][j]){
@@ -37,21 +34,20 @@ void dfs(int i, int j, int x, int y, char cor)
 
     visited[i][j] = true;
 
-    if(i+1 != x or j != y)
+    if((i+1 != x or j != y) and matriz[i+1][j] != cor)
         dfs(i+1,j,i,j,cor);
 
-    if(i != x or j+1 != y)
+    if((i != x or j+1 != y) and matriz[i][j+1] != cor)
         dfs(i,j+1,i,j,cor);
 
-    if(i-1 != x or j != y)
+    if((i-1 != x or j != y) and matriz[i-1][j] != cor)
         dfs(i-1,j,i,j,cor);
 
-    if(i !=x or j-1 != y)
+    if((i !=x or j-1 != y) and matriz[i][j-1] != cor)
         dfs(i,j-1,i,j,cor);
 }
 
-bool solve()
-{
+bool solve(){
     for(int i = 0; i < n; i++){
         for(int j = 0; j < m; j++){
             if(!visited[i][j])
