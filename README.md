@@ -140,7 +140,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.1.3. Upsolving 3: [Beecrowd 1907 - Colouring Game Scenarios](https://www.beecrowd.com.br/judge/en/problems/view/1907) [[Solução](upsolving/beecrowd_1907.cpp)]
 
-<!--
+
 #### 8. Divisão-e-Conquista
 
 &nbsp;&nbsp;&nbsp;&nbsp; 8.1. Merge Sort
@@ -175,7 +175,7 @@ Prof. Dr. Vinícius R. P. Borges
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.4. Upsolving 4: [Beecrowd 1472 - Triângulos](https://www.beecrowd.com.br/judge/pt/problems/view/1472) [[Solução](upsolving/uri1472_triangles.cpp)]
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.5. Upsolving 3: [Codeforces 1676E - Eating Queries](https://codeforces.com/problemset/problem/1676/E) [[Solução](upsolving/1676e_eating_queries.cpp)]
-
+<!--
 #### 9. Análise amortizada: Two Pointers
 
 &nbsp;&nbsp;&nbsp;&nbsp; 9.1. [Problema 2SUM](general/two_sum.cpp)
