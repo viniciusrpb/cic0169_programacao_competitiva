@@ -14,18 +14,19 @@
 
 using namespace std;
 
-int merge(int v[], int temp[], int inicio, int meio, int fim)
-{
-    int i, j, k,swaps;
+typedef long long ll;
+
+ll merge(int v[], int temp[], int inicio, int meio, int fim){
+    int i, j, k;
+    ll swaps;
  
     i = inicio; 
-    j = meio;
+    j = meio+1;
     k = inicio;
     
     swaps = 0;
     
-    while (i <= meio && j <= fim)
-    {
+    while (i <= meio && j <= fim){
         if (v[i] <= v[j])
             temp[k++] = v[i++];
         else
@@ -35,7 +36,7 @@ int merge(int v[], int temp[], int inicio, int meio, int fim)
         }
     }
  
-    while (i <= meio - 1)
+    while (i <= meio)
         temp[k++] = v[i++];
  
     while (j <= fim)
@@ -48,17 +49,16 @@ int merge(int v[], int temp[], int inicio, int meio, int fim)
  
 }
 
-int mergeSort(int v[], int temp[], int inicio, int fim)
-{
-    int meio,swaps=0;
-    if (inicio < fim)
-    {
+ll mergeSort(int v[], int temp[], int inicio, int fim){
+    int meio;
+    ll swaps=0;
+    if (inicio < fim){
         meio = (inicio+fim) / 2;
  
         swaps = swaps+mergeSort(v, temp, inicio, meio);
         swaps = swaps + mergeSort(v, temp, meio + 1, fim);
  
-        swaps = swaps + merge(v, temp, inicio, meio + 1, fim);
+        swaps = swaps + merge(v, temp, inicio, meio, fim);
     }
     return swaps;
 }
@@ -70,11 +70,11 @@ int main()
     int v[N] = {6,5,-1,7,2,12,-3};
     int temp[N];
     
-    int ans = mergeSort(v,temp,0,N-1);
+    ll ans = mergeSort(v,temp,0,N-1);
     
     for(int i =0; i < N;i++)
         printf("%d ",v[i]);
-    printf("\nInversoes: %d\n",ans);
+    printf("\nInversoes: %lld\n",ans);
     
     
     return 0;
