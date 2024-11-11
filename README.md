@@ -10,11 +10,13 @@ Atenção: o Material Didático (Slides, Exercícios Resolvidos) na íntegra é 
 
 - [GitHub do Projeto de Extensão Maratona de Programação](https://github.com/UnB-CIC/Maratona-Extensao)
 
+## Cronograma de Aulas
+
+Clique [aqui](cic0169.pdf). *Última atualização: 10 de novembro de 2024*.
 
 ## Autores
 
 Prof. Dr. Vinícius R. P. Borges
-
 
 ## Sumário
 
