@@ -37,7 +37,7 @@ Prof. Dr. Vinícius R. P. Borges
 &nbsp;&nbsp;&nbsp;&nbsp; 1.6. Upsolving 4: [Codeforces 50A - Domino Pilling](https://codeforces.com/problemset/problem/50/A) [[Solução](upsolving/50a_domino_piling.cpp)]
 
 
-<!--
+
 #### 2. Ponteiros e Alocação Dinâmica de Memória
 
 &nbsp;&nbsp;&nbsp;&nbsp; 2.1. Ponteiros e Iterators
@@ -84,7 +84,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 4.5. Upsolving: [Codeforces 1234D - Distinct Characters Queries](https://codeforces.com/contest/1234/problem/D) [[Solução](upsolving/1234d_distinct_characters_queries.cpp)]
 
-
+<!--
 #### 5. Soma de Prefixos e Codificação Delta
 
 &nbsp;&nbsp;&nbsp;&nbsp; 5.1. Soma de Prefixos (*Prefix sum*): [Exemplo básico](general/prefix_sum.cpp)
