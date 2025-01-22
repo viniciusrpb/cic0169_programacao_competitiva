@@ -9,7 +9,7 @@
  *
  * POR FAVOR: nao submeter esse código-fonte diretamente no Codeforces
  *
- * Compilar no terminal: g++ 510b_fox_twodots.cpp -std=c++11 -o fox
+ * Compilar no terminal: g++ 510b_fox_twodots.cpp -std=c++17 -o fox
  * Executar: ./fox
  */
 
