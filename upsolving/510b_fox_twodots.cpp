@@ -17,15 +17,17 @@
 
 using namespace std;
 
-char board[52][52];
-bool visited[52][52];
-bool valid;
+char board[52][52]; // padding de matrizes
+bool visited[52][52]; // padding de matrizes
+bool acheiSolucao;
 int n,m;
 
 void dfs(int i, int j, int x, int y, char cor){
 
+    // se encontramos um ponto de mesma cor que jah foi visitado
+    // significa que fechamos o ciclo de pelo menos 4 pontos
     if(visited[i][j]){
-        valid = true;
+        valid = true; // marca que encontrou a resposta
         return ;
     }
 
@@ -49,7 +51,7 @@ bool solve(){
         for(int j = 1; j <= m; j++){
             if(!visited[i][j]){
                 dfs(i,j,-1,-1,board[i][j]);
-                if(valid)
+                if(acheiSolucao)
                     return true;
             }
         }
@@ -61,7 +63,7 @@ bool solve(){
 int main(){
     scanf("%d %d",&n,&m);
     
-    getchar();
+    getchar(); // se livra do \n
     
     memset(board,'.',sizeof(board));
 
@@ -69,7 +71,7 @@ int main(){
         for(int j = 1; j <= m; j++){
             scanf("%c",&board[i][j]);
         }
-        getchar();
+        getchar(); // se livra do \n
     }
 
     if(solve())
