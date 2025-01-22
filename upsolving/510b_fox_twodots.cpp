@@ -17,15 +17,12 @@
 
 using namespace std;
 
-char mat[52][52];
+char board[52][52];
 bool visited[52][52];
 bool valid;
 int n,m;
 
 void dfs(int i, int j, int x, int y, char cor){
-
-    if(i < 0 or j < 0 or i >= n or j >= m)
-        return ;
 
     if(visited[i][j]){
         valid = true;
@@ -34,25 +31,26 @@ void dfs(int i, int j, int x, int y, char cor){
 
     visited[i][j] = true;
 
-    if((i+1 != x or j != y) and matriz[i+1][j] != cor)
+    if((i+1 != x or j != y) and board[i+1][j] == cor)
         dfs(i+1,j,i,j,cor);
 
-    if((i != x or j+1 != y) and matriz[i][j+1] != cor)
+    if((i != x or j+1 != y) and board[i][j+1] == cor)
         dfs(i,j+1,i,j,cor);
 
-    if((i-1 != x or j != y) and matriz[i-1][j] != cor)
+    if((i-1 != x or j != y) and board[i-1][j] == cor)
         dfs(i-1,j,i,j,cor);
 
-    if((i !=x or j-1 != y) and matriz[i][j-1] != cor)
+    if((i != x or j-1 != y) and board[i][j-1] == cor)
         dfs(i,j-1,i,j,cor);
+    
+    return ;
 }
 
 bool solve(){
-    for(int i = 0; i < n; i++){
-        for(int j = 0; j < m; j++){
-            if(!visited[i][j])
-            {
-                dfs(i,j,-1,-1,mat[i][j]);
+    for(int i = 1; i <= n; i++){
+        for(int j = 1; j <= m; j++){
+            if(!visited[i][j]){
+                dfs(i,j,-1,-1,board[i][j]);
                 if(valid)
                     return true;
             }
@@ -64,11 +62,15 @@ bool solve(){
 
 int main()
 {
-    scanf("%d %d\n",&n,&m);
+    scanf("%d %d",&n,&m);
+    
+    getchar();
+    
+    memset(board,'.',sizeof(board));
 
-    for(int i = 0; i < n; i++){
-        for(int j = 0; j < m; j++){
-            scanf("%c",&mat[i][j]);
+    for(int i = 1; i <= n; i++){
+        for(int j = 1; j <= m; j++){
+            scanf("%c",&board[i][j]);
         }
         getchar();
     }
