@@ -42,8 +42,6 @@ void dfs(int i, int j, int x, int y, char cor){
 
     if((i != x or j-1 != y) and board[i][j-1] == cor)
         dfs(i,j-1,i,j,cor);
-    
-    return ;
 }
 
 bool solve(){
@@ -60,8 +58,7 @@ bool solve(){
 }
 
 
-int main()
-{
+int main(){
     scanf("%d %d",&n,&m);
     
     getchar();
@@ -75,9 +72,7 @@ int main()
         getchar();
     }
 
-    bool ans = solve();
-
-    if(ans)
+    if(solve())
         printf("Yes\n");
     else
         printf("No\n");
