@@ -144,7 +144,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 
 #### 8. Divisão-e-Conquista
-
+<!--
 &nbsp;&nbsp;&nbsp;&nbsp; 8.1. Merge Sort
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.1. [Implementação Tradicional](general/merge_sort.cpp)
@@ -159,24 +159,24 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.6. Upsolving 4: [Beecrowd 1088 - Bolhas e Baldes](https://www.beecrowd.com.br/judge/pt/problems/view/1088) [[Solução](upsolving/uri1088_bubbles_buckets.cpp)]
 
+-->
+&nbsp;&nbsp;&nbsp;&nbsp; 8.1. Busca Binária
 
-&nbsp;&nbsp;&nbsp;&nbsp; 8.2. Busca Binária
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.1. [Implementação Tradicional](general/busca_binaria.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.1. [Implementação Tradicional](general/busca_binaria.cpp)
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.2. [Lower and Upper Bounds](general/lower_upper_bounds.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.2. [Lower and Upper Bounds](general/lower_upper_bounds.cpp)
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.3. [Busca Binária na Resposta](general/buscabin_resposta.cpp)
 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.3. [Busca Binária na Resposta](general/buscabin_resposta.cpp)
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.4. Upsolving 1: [Codeforces 812C - Sagheer and Nubian Market](https://mirror.codeforces.com/contest/812/problem/C) [[Solução](upsolving/812c_sagheer_nubian_market.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.4. Upsolving 1: [Codeforces 812C - Sagheer and Nubian Market](https://mirror.codeforces.com/contest/812/problem/C) [[Solução](upsolving/812c_sagheer_nubian_market.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.5. Upsolving 2: [Codeforces 760B - Frodo and Pillows](https://codeforces.com/problemset/problem/760/B) [[Solução](upsolving/760b_frodo_pillows.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.5. Upsolving 2: [Codeforces 760B - Frodo and Pillows](https://codeforces.com/problemset/problem/760/B) [[Solução](upsolving/760b_frodo_pillows.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.5. Upsolving 3: [Codeforces 1538C - Pair of Numbers](https://codeforces.com/problemset/problem/1538/C) [[Solução](upsolving/1538c_number_pairs.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.5. Upsolving 3: [Codeforces 1538C - Pair of Numbers](https://codeforces.com/problemset/problem/1538/C) [[Solução](upsolving/1538c_number_pairs.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.6. Upsolving 4: [Beecrowd 1472 - Triângulos](https://www.beecrowd.com.br/judge/pt/problems/view/1472) [[Solução](upsolving/uri1472_triangles.cpp)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.6. Upsolving 4: [Beecrowd 1472 - Triângulos](https://www.beecrowd.com.br/judge/pt/problems/view/1472) [[Solução](upsolving/uri1472_triangles.cpp)]
-
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.2.7. Upsolving 3: [Codeforces 1676E - Eating Queries](https://codeforces.com/problemset/problem/1676/E) [[Solução](upsolving/1676e_eating_queries.cpp)]
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.7. Upsolving 3: [Codeforces 1676E - Eating Queries](https://codeforces.com/problemset/problem/1676/E) [[Solução](upsolving/1676e_eating_queries.cpp)]
 
 <!--
 #### 9. Análise amortizada: Two Pointers
