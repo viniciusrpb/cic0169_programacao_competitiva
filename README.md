@@ -178,7 +178,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 8.1.7. Upsolving 3: [Codeforces 1676E - Eating Queries](https://codeforces.com/problemset/problem/1676/E) [[Solução](upsolving/1676e_eating_queries.cpp)]
 
-<!--
+
 #### 9. Análise amortizada: Two Pointers
 
 &nbsp;&nbsp;&nbsp;&nbsp; 9.1. [Problema 2SUM](general/two_sum.cpp)
@@ -191,8 +191,7 @@ Prof. Dr. Vinícius R. P. Borges
 
 &nbsp;&nbsp;&nbsp;&nbsp; 9.5. Upsolving 2: [Codeforces 1343C - Alternating Subsequence](https://codeforces.com/problemset/problem/1343/C) [[Solução](upsolving/1343c_alternating_subsequence.cpp)]
 
-
-&nbsp;&nbsp;&nbsp;&nbsp; 9.3. Upsolving 3: [Codeforces 279B - Books](https://codeforces.com/problemset/problem/279/B) [[Solução](upsolving/279b_books.cpp)]-->
+<!--&nbsp;&nbsp;&nbsp;&nbsp; 9.3. Upsolving 3: [Codeforces 279B - Books](https://codeforces.com/problemset/problem/279/B) [[Solução](upsolving/279b_books.cpp)]-->
 
 <!--
 #### 9. Algoritmos Gulosos
